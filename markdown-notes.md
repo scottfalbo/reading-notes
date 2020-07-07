@@ -10,3 +10,4 @@
   * a single `*` before and after will make *the selection italicized*. 
   
   [Back to Mainpage](README.md)
+  [Coder's Computer Notes](coders-computer.md)
