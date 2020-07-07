@@ -9,9 +9,6 @@
 + If you want to draw attention to a specific word or phrase you can use `**` before and after a section of text to make it appear **bold like this**.
   * a single `*` before and after will make *the selection italicized*. 
   
-  <hr />
   [Back to Mainpage](README.md)
-  <br />
-  #### Links to More Notes
-  <br />
-  [Coder's Computer](coders-computer.md)
+
+
