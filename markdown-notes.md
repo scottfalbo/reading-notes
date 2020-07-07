@@ -1,4 +1,4 @@
-#Scott's Reading Notes
+# Scott's Reading Notes
 
 ### Markdown Notes
 > Markdown is a method used to organize and style a collection of text into a cohesive readable website.  It allows prioritization of material through creation of varying sized header texts, lists and blockquote.  It also allows text formatting such as creating bold and italic words.  It can be used to create links and include images on a webpage.  Markdown uses some symbols, or non-alphebetic characters, to create a short hand version of element tags saving key strokes and time.  Without the use of Markdown browsers would simply read a file and present it as an un-organized strung together wall of text.
