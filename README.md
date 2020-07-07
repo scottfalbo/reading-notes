@@ -1,4 +1,4 @@
-# :herb: Scott's Reading Notes :herb:
+#  Scott's Reading Notes 
 
 ### Growth Mindset
 
@@ -8,7 +8,7 @@
 2. No one starts out knowing anything and failure should be embraced as a learning experience.
 3. Learning is not a competition and I should not be intemidated by other's success.
 
-My name is **Scott Falbo.**  I live in Seattle with my wife and four cats :smiley_cat: .  I am a software developer in training at Code Fellows.
+My name is **Scott Falbo.**  I live in Seattle with my wife and four cats.  I am a software developer in training at Code Fellows.
 <br />
 You can find my GetHub profile via the link below:
 <br />
