@@ -11,9 +11,11 @@
 ![photo](https://avatars1.githubusercontent.com/u/67803329?s=460&u=92ace7e6cedf0c3582317b5620d2575ca0d49604&v=4)<br />
 My name is **Scott Falbo.**  I live in Seattle with my wife and four cats.  I am a software developer in training at Code Fellows.
 <br />
-You can find my GetHub profile via the link below:
+**[Following my profile on GetHub by clicking here](https://github.com/scottfalbo)**
 <br />
-https://github.com/scottfalbo
+
+<br/ >
+**We can also connect on [Linkedin](https://www.linkedin.com/in/scott-falbo-5523a41b1/) **
 
 ### Markdown Notes
 > Markdown is a method used to organize and style a collection of text into a cohesive readable website.  It allows prioritization of material through creation of varying sized header texts, lists and blockquote.  It also allows text formatting such as creating bold and italic words.  It can be used to create links and include images on a webpage.  Markdown uses some symbols, or non-alphebetic characters, to create a short hand version of element tags saving key strokes and time.  Without the use of Markdown browsers would simply read a file and present it as an un-organized strung together wall of text.
