@@ -19,3 +19,4 @@ My name is **Scott Falbo.**  I live in Seattle with my wife and four cats.  I am
 
 ### Links to Notes by Subject
 [Markdown Notes](markdown-notes.md)
+[Coder's Computer](coders-computer.md)
