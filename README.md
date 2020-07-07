@@ -6,7 +6,7 @@
 
 1. Be able to look at a challenge from different perspectives outside of my own to find new modalities and processes.
 2. No one starts out knowing anything and failure should be embraced as a learning experience.
-3. Learning is not a compition and I should not be intemidated by other's success.
+3. Learning is not a competition and I should not be intemidated by other's success.
 
 > My name is **Scott Falbo.**  I live in Seattle with my wife and four cats :smiley_cat: .  I am a software developer in training at Code Fellows.
 <br />
