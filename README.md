@@ -9,13 +9,13 @@
 3. Learning is not a compition and I should not be intemidated by other's success.
 
 > My name is **Scott Falbo.**  I live in Seattle with my wife and four cats :smiley_cat: .  I am a software developer in training at Code Fellows.
-<br>
+<br />
 You can find my GetHub profile via the link below:
-<br>
+<br />
 https://github.com/scottfalbo
 
 ### Markdown Notes
 > Markdown is a method used to organize and style a collection of text into a cohesive readable website.  It allows prioritization of material through creation of varying sized header texts, list and blockquote.  It also allows text formatting such as creating bold and italic words.  It can be used to create links and include images on a webpage.  Markdown uses some symbols, or non-alphebetic characters, to create a short hand version of element tags saving key strokes and time.  Without the use of Markdown browsers would simply read a file and present it as an un-organized strung together wall of text.
-- Using the '#' before a 
+- Using the '#' before a line of text will pply an h1 tag increasing the size of the text and making it stand out as a section header.
 - example
 - example
