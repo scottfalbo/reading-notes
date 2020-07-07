@@ -21,4 +21,4 @@ My name is **Scott Falbo.**  I live in Seattle with my wife and four cats.  I am
 * You can create ordered and unordered lists mt typing out 1., 2., 3. for an ordered list and * for an unordered list.
   * You can even put lists
   * within lists
-* If you want to draw attention to a specific word or phrase you can use &ast;&ast; before and after a section of text to make it appear **bold like this**.
+* <p>If you want to draw attention to a specific word or phrase you can use &ast;&ast; before and after a section of text to make it appear **bold like this**.</p>
