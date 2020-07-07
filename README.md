@@ -7,6 +7,7 @@
 >> 1. Be able to look at a challenge from different perspectives outside of my own to find new modalities and processes.
 >> 2. No one starts out knowing anything and failure should be embraced as a learning experience.
 >> 3. Learning is not a competition and I should not be intemidated by other's success.
+<hr />
 
 ![photo](https://avatars1.githubusercontent.com/u/67803329?s=460&u=92ace7e6cedf0c3582317b5620d2575ca0d49604&v=4)<br />
 My name is **Scott Falbo.**  I live in Seattle with my wife and four cats.  I am a software developer in training at Code Fellows.
