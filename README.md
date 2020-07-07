@@ -22,5 +22,3 @@ My name is **Scott Falbo.**  I live in Seattle with my wife and four cats.  I am
   * You can even put lists
   * within lists
 * If you want to draw attention to a specific word or phrase you can use &ast;&ast; before and after a section of text to make it appear **bold like this**.
-
-
