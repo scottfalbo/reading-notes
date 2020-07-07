@@ -10,6 +10,8 @@
   * a single `*` before and after will make *the selection italicized*. 
   
   <hr />
-  [Back to Mainpage](README.md)<br />
+  [Back to Mainpage](README.md)
+  <br />
   #### Links to More Notes
-  [Coder's Computer Notes](coders-computer.md)
+  <br />
+  [Coder's Computer](coders-computer.md)
