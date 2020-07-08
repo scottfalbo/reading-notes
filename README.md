@@ -10,9 +10,11 @@
 <hr />
 
 ![photo](https://avatars1.githubusercontent.com/u/67803329?s=460&u=92ace7e6cedf0c3582317b5620d2575ca0d49604&v=4)
-
+<br>
 My name is **Scott Falbo.**  I am a software developement student at [Code Fellows](https://www.codefellows.org/) and an artist at [Studio Arcanum](http://studioarcanum.com/) in Seattle, WA.  
-I live with my wife Amber who is also a student at [Code Fellows](https://www.codefellows.org/), and our four cats.  When I'm not studying code or doing art stuff I enjoy most animation and have been a long time player of the Diablo and Warcraft franchises.  
+I live with my wife Amber who is also a student at [Code Fellows](https://www.codefellows.org/), and our four cats.  When I'm not studying code or doing art stuff I enjoy watching cartoons and have been a long time player of the Diablo and Warcraft franchises.  
+I was always interested in computers at a young age.  As a kid I enjoyed taking apart and rebuilding machines to learn the hardwarre components.  In high school and college I dabbled with some programming classes including HTML, Java and C++.  I also learned a lauguage called Hypercard on Mac a million years ago but I'm pretty sure it was a dead language even at the time.  
+I'm excited to really get into programming as an adult and to explore what this world has to offer!
 
 <br><br>
 **[Following my profile on GetHub by clicking here](https://github.com/scottfalbo)**
