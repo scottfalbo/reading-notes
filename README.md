@@ -27,6 +27,7 @@ I'm excited to really get into programming as an adult and to explore what this 
 
 #### Links to Notes by Subject
 [Markdown Notes](markdown-notes.md)<br />
-[Coder's Computer](coders-computer.md)
+[Coder's Computer](coders-computer.md)<br />
+[Revisions and the Cloud](revisions-cloud.md)
 
 [Top of the Page](#scotts-reading-notes)
