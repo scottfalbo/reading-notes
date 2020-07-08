@@ -17,8 +17,8 @@ I was always interested in computers at a young age.  As a kid I enjoyed taking 
 I'm excited to really get into programming as an adult and to explore what this world has to offer.
 
 
-**[Following my profile on GetHub by clicking here](https://github.com/scottfalbo)**
-<br><br>
+**[Following my profile on GetHub](https://github.com/scottfalbo)**
+<br>
 **We can also connect on** <br>
 [Linkedin](https://www.linkedin.com/in/scott-falbo-5523a41b1) <br>
 [Facebook](https://www.facebook.com/scottfalboart) <br>
