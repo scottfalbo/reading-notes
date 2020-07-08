@@ -31,4 +31,4 @@ I'm excited to really get into programming as an adult and to explore what this 
 [Coder's Computer](coders-computer.md)<br />
 [Revisions and the Cloud](revisions-cloud.md)
 
-[Top of the Page](#scotts-reading-notes)
+[Back to the top](#scotts-reading-notes)
