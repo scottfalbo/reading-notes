@@ -9,9 +9,11 @@
 >> 3. Learning is not a competition and I should not be intemidated by other's success.
 <hr />
 
-![photo](https://avatars1.githubusercontent.com/u/67803329?s=460&u=92ace7e6cedf0c3582317b5620d2575ca0d49604&v=4)<br />
+![photo](https://avatars1.githubusercontent.com/u/67803329?s=460&u=92ace7e6cedf0c3582317b5620d2575ca0d49604&v=4)
+
 My name is **Scott Falbo.**  I am a software developement student at [Code Fellows](https://www.codefellows.org/) and an artist at [Studio Arcanum](http://studioarcanum.com/) in Seattle, WA.  
 I live with my wife Amber who is also a student at [Code Fellows](https://www.codefellows.org/), and our four cats.  When I'm not studying code or doing art stuff I enjoy most animation and have been a long time player of the Diablo and Warcraft franchises.  
+
 <br><br>
 **[Following my profile on GetHub by clicking here](https://github.com/scottfalbo)**
 <br><br>
