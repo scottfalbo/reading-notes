@@ -19,5 +19,5 @@ Some important features to look for are:
 
 
 more notes
--Emmet
+- Emmet
 - Text Editor vs IDEs
