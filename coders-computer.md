@@ -22,7 +22,3 @@ the difference between a text editor and an IDE (Intergrated Developement Enviro
 **Abstraction** is when a programmer hides all but the required data from the user to make a more friendly experience.
 
 [Back to Mainpage](README.md)
-
-
-
-Abstraction
