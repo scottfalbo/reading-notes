@@ -16,3 +16,8 @@ Some important features to look for are:
 
 
 [Back to Mainpage](README.md)
+
+
+more notes
+-Emmet
+- Text Editor vs IDEs
