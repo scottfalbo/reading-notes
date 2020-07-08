@@ -19,6 +19,8 @@ the difference between a text editor and an IDE (Intergrated Developement Enviro
 
 > The terminal, or CLI (Command Line Interface), is a way of accessing and manipulating files on your machine without using a front end GUI, not unlike the DOS prompts of yore.  GUI is short for Graphical User Interface and refers to the interactable programs and applications you use to navigate your computer.
 
+**Abstraction** is when a programmer hides all but the required data from the user to make a more friendly experience.
+
 [Back to Mainpage](README.md)
 
 
