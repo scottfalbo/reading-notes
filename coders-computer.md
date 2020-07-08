@@ -23,5 +23,4 @@ the difference between a text editor and an IDE (Intergrated Developement Enviro
 
 
 
-VS Code
 Abstraction
