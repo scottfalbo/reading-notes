@@ -25,7 +25,7 @@ the difference between a text editor and an IDE (Intergrated Developement Enviro
 >> + Open files
 >> + Make new files and folders
 
-**Abstraction** is when a programmer hides all but the required data from the user to make a more friendly experience.
+**Abstraction** is when a programmer hides all but the required data from the user to make a more friendly experience.  I think if it like baking a cake.  You add ingredients to a mixer and you know what the mixer will do.  You don't need to know how the mechanism inside the mixer works or how the wiring in the building brings power to the mixer to use it.
 
 #### Terminal Commands
 + `cd`: change directory
