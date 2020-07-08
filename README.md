@@ -20,7 +20,7 @@ I'm excited to really get into programming as an adult and to explore what this 
 **[Following my profile on GetHub by clicking here](https://github.com/scottfalbo)**
 <br><br>
 **We can also connect on** <br>
-[Linkedin](https://www.linkedin.com/in/scott-falbo-5523a41b1) <br>
+[Linkedin](https://www.linkedin.com/in/scott-falbo-5523a41b1){target="_blank"} <br>
 [Facebook](https://www.facebook.com/scottfalboart) <br>
 [Instagram](https://www.instagram.com/scottfalboart)
 <hr />
