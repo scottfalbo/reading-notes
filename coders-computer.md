@@ -4,7 +4,7 @@
 
 #### Text Editor
 
-> A text editor a is a program that you install or access on line to edit text for code.  There are many different programs out there and like most things one size does not fit all.  Each editor may have it's own unique set of features that appeal to different types of users and coding styles.  Some text editors include Notepad, Atom, Visual Studio Code and many more.
+> A text editor a is a program that you install or access on line to edit text for code.  There are many different programs out there and like most things one size does not fit all.  Each editor may have it's own unique set of features that appeal to different types of users and coding styles.  Visual Studio Code is a great example of a text editor that already has all of the tools and add ons built in a ready to go.
 Some important features to look for are:
 + **Code Completion.**
   + Code complition will auto complete and often times create a set of closing brackets automatically greatly cutting down on keystrokes and time.
@@ -15,16 +15,13 @@ Some important features to look for are:
 
 the difference between a text editor and an IDE (Intergrated Developement Environment) is that the IDE is several tools in one.  An IDE includes a text editor, file manager, debugger and compiler all in one.  
 
+#### The Terminal
+
+> The terminal, or CLI (Command Line Interface), is a way of accessing and manipulating files on your machine without using a front end GUI, not unlike the DOS prompts of yore.  GUI is short for Graphical User Interface and refers to the interactable programs and applications you use to navigate your computer.
 
 [Back to Mainpage](README.md)
 
 
-more notes
 
-
-CLI (Command Line Interface)
-Terminal
-GUI (Graphical User Interface)
-IDE
 VS Code
 Abstraction
