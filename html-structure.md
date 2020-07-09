@@ -3,9 +3,11 @@
 ### Structure web pages with HTML
 
 #### Process and Design
-+ How to approach building a site
-+ Understanding your audience and their needs
-+ How to present information visitors want to see
++ Understand your target audience.  Why would they visit your site, what information do they want/need and how often the will revisit.
++ Creating a **site map** lets you plan the over all structure of the site.
++ A **wireframe**, or rough site sketch, is used to organize the layout and content of each page.
++ Design is about communication.  Visual hierarchy helps visitors understand the information on the site.
+    + Size, color and style are all ways to differentiate between information or sections and groups of information.
 
 <br>
 
@@ -23,7 +25,7 @@ HTML / Markup:
 
 Semantics:
 
-Wireframe: A simple sketch of the layout of your site and where the information will go within that layout.
+Wireframe: A simple sketch of the layout of each page on your site and where the information will go within that layout.
 
 Personas:
 
