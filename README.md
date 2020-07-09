@@ -2,7 +2,7 @@
 
 [jump to table of contents](#my-reading-notes-table-of-contents)
 
-<!--->
+<!---
 ![photo](https://avatars1.githubusercontent.com/u/67803329?s=460&u=92ace7e6cedf0c3582317b5620d2575ca0d49604&v=4) --->
 <br>
 My name is **Scott Falbo.**  I am a software developement student at [Code Fellows](https://www.codefellows.org/) and an artist at [Studio Arcanum](http://studioarcanum.com/) in Seattle, WA.  
