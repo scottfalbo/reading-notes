@@ -1,6 +1,6 @@
 #  Scott Falbo
 
-[jump to index](#links-to-notes-by-subject)
+[jump to table of contents](#my-reading-notes-table-of-contents)
 
 
 ![photo](https://avatars1.githubusercontent.com/u/67803329?s=460&u=92ace7e6cedf0c3582317b5620d2575ca0d49604&v=4)
