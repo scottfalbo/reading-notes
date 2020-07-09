@@ -16,21 +16,21 @@
 
 [Git Documentation](https://git-scm.com/doc)
 
+**GitHub** is the physical location, or server, where the files are stored.
 
+**Local vs Remote**: Local refers to files stored locally on your hard disk.  Remote files are stored on another server and accessed by the client.
 
+**Clone**: A clone is an exact copy of your Git repository.
+
+**ACP** Add, Commit, Push.  This is the process used to create a snapshot of you project.
++ Add: `git add file`
++ Commit: `git commit -m "meaningful notation, why are you saving"
++ Push: `git push origin master` 
+
+**Deployment** is the launching of your files to a live site.
 
 
 [Back to the mainpage](README.md)
 
 
 
-Git vs. Github
-
-local vs remote
-
-clone
-
-
-ACP
-
-deployment
