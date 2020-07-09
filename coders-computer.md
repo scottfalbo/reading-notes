@@ -54,5 +54,6 @@ The difference between a text editor and an IDE (Intergrated Developement Enviro
 [Back to Mainpage](README.md)<br>
 [Growth Mindset](growth-mindset.md)<br />
 [Markdown Notes](markdown-notes.md)<br />
+*Coder's Computer* <br>
 [Revisions and the Cloud](revisions-cloud.md)<br>
 [HTML Structure](html-structure)

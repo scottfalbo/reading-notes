@@ -11,6 +11,7 @@
 <br>
 
 [Back to Mainpage](README.md)<br />
+*Growth Mindset* <br>
 [Markdown Notes](markdown-notes.md)<br />
 [Coder's Computer](coders-computer.md)<br />
 [Revisions and the Cloud](revisions-cloud.md)<br>
