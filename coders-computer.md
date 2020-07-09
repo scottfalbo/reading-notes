@@ -32,10 +32,26 @@ The difference between a text editor and an IDE (Intergrated Developement Enviro
 + `ls`: list
 + `pwd`: print working directory
 + `touch`: create file
++ `rm -rf filename`: delete file.  *BE CAREFUL, DOUBLE CHECK SPELLING*
 + `mkdir`: create a directory
++ `cd ..`: go back a directory
++ `cd ../../../`: go back three directories
 
 #### Flags
-- `ls` -a`
+- `ls -a`: flag all, shows hidden
 - `ls -la`
 
-[Back to Mainpage](README.md)
+#### Git Commands
+- `git clone http:/url`: clone repository from git
+- ACP: add, commit, push
+  + `git add filename`
+  + `git commit -m "notes"`
+  + `git push origin master`
+- `git status`: see the status of your files
+
+<br>
+
+[Back to Mainpage](README.md)<br>
+[Growth Mindset](growth-mindset.md)<br />
+[Markdown Notes](markdown-notes.md)<br />
+[Revisions and the Cloud](revisions-cloud.md)
