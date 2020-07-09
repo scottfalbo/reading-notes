@@ -24,7 +24,7 @@
 
 **ACP** Add, Commit, Push.  This is the process used to create a snapshot of you project.
 + Add: `git add file`
-+ Commit: `git commit -m "meaningful notation, why are you saving"
++ Commit: `git commit -m "meaningful notation, why are you saving"`
 + Push: `git push origin master` 
 
 **Deployment** is the launching of your files to a live site.
