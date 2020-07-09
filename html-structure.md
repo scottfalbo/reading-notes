@@ -16,7 +16,7 @@
 [Revisions and the Cloud](revisions-cloud.md)<br>
 *HTML Structure* 
 
-<!---
+<!--- 
 Vocabulary
 
 HTML / Markup:
