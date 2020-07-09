@@ -1,4 +1,6 @@
-# Revisions and the Cloud
+# Scott's Reading Notes
+
+### Revisions and the Cloud
 
 #### VCS
 
@@ -34,7 +36,8 @@
 [Back to the mainpage](README.md)<br />
 [Growth Mindset](growth-mindset.md)<br />
 [Markdown Notes](markdown-notes.md)<br />
-[Coder's Computer](coders-computer.md)
+[Coder's Computer](coders-computer.md)<br>
+[HTML Structure](html-structure)
 
 
 
