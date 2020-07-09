@@ -34,4 +34,8 @@ The difference between a text editor and an IDE (Intergrated Developement Enviro
 + `touch`: create file
 + `mkdir`: create a directory
 
+#### Flags
+- `ls` -a`
+- `ls -la`
+
 [Back to Mainpage](README.md)
