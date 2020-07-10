@@ -23,9 +23,38 @@
 #### HTML 5 Layout
 *Chapter 17*
 
-+ 
-+ 
-+ 
++ HTML5 elements indicate the purpose of the different parts of a page and helps describe it's structure.  These elements provide clearer code than using multiple `<div>` elements. 
++ These descriptive tags are refered to as Semantic Elements.  Semantic elements clearly describe their meanings to both the browser and developer.
++ Further more semantic elements are used by access tools in browsers to assist impared users.
++ Semantic elements include:
+    + `<header>`
+    + `<footer>`
+    + `<main>`
+    + `<article>`
+    + `<aside>`
+    + `<nav>`
+    + `<section>`
+    + `<figure>`
+        + `<figcaption>`
+    + `<details>`
+    + `<mark>`
+    + `<summary>`
+    + `<time>`
+
+Older browsers do not understand HTML5 elements and need to be told which elements are block-level elements.
+
+**CSS**
+```
+header, section, footer, aside, nav, article, figure, figcaption {display: block;}
+```
+**HTML**
+```
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js></script>
+<![end if]-->
+```
+
+*For HTML5 work in IE 8 extra java script is needed.*
 
 #### Extra Markup
 *Chapter 8*
