@@ -19,6 +19,7 @@
 + Opening tags can carry attributes which can affect how the element will appear in the browser.
     + `<img src="imagename.png" alt="alt text" width="200">`
     + In the above line of code *alt* and *width* are both **attributes** of the `<img src>` **element** or **tag** and the information contained within each is a **value**.
+        + note: width and height are style elements and should be handled by CSS.
 
 #### HTML 5 Layout
 *Chapter 17*
