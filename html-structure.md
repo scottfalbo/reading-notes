@@ -59,9 +59,19 @@ header, section, footer, aside, nav, article, figure, figcaption {display: block
 #### Extra Markup
 *Chapter 8*
 
-+ 
-+ 
-+ 
++ Begin your code by telling the browser what type of document it is. 
+    + HTML5 would be `<!DOCTYPE html>` *This should be the first line of code before the opening* `<html>` *tag*.
++ `<!-- -->` Tag for making comments in your code that will not show up in the presentation.
++ The **id** attribute allows you to define and indentify unique elements in your code.  The **class** attribute allows you to define and indentify multiple elements that you want to act the same.
++ The `<div>` element allows you to group a set of elements together in one block-level box.  The `<span>` element is an inline equivalent that can contain a section of text or other inline elements.
++ `<iframe>` is a smaller window cut into your site that can be used to run other sites.  A few key attributes of `<iframe>` include `src`, `height` and `width`.
+    + `<iframe width="200" height="200" scr="site source">` `</iframe>`
++ The `<meta>` element lives inside the `<head>` element and contains information about the page such as a description and keywords.  This information is invisible to the user but fulfill other purposes like telling search engines about your page.
++ Some characters are reserved by HTML code for specific use and cannot be typed as plain text without the browser interpreting it as code.  These are HTML **entities** and can be used with **escape characters**.
+    + `<` = `&lt;` or `&#60;`
+    + `&` = `&amp;` or `&#38;`
+    + Lists of escape characters can easily be found online.
+
 
 <br>
 
@@ -71,21 +81,3 @@ header, section, footer, aside, nav, article, figure, figcaption {display: block
 [Coder's Computer](coders-computer.md)<br>
 [Revisions and the Cloud](revisions-cloud.md)<br>
 *HTML Structure* 
-
-<!--- 
-Vocabulary
-
-HTML / Markup:
-
-Semantics:
-
-
-Personas:
-
-Meta:
-
-Content:
-
-
-Structure vs Presentation:
---->
