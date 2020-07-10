@@ -36,7 +36,7 @@
     + `<nav>`
     + `<section>`
     + `<figure>`
-        + `<figcaption>`
+        + `<figcaption>` should be the first or last thing within the figure.  Elaborate alt tag that describes the image.  Important for screen readers.
     + `<details>`
     + `<mark>`
     + `<summary>`
