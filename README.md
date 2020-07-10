@@ -26,6 +26,6 @@ I'm excited to really get into programming as an adult and to explore what this 
 [Coder's Computer](coders-computer.md)<br>
 [Revisions and the Cloud](revisions-cloud.md)<br>
 [HTML Structure](html-structure)<br>
-[Styling with CSS](style-css.md)
+[Styling with CSS](design-css.md)
 
 [Back to the top](#scott-falbo)
