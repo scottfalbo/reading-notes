@@ -22,9 +22,10 @@ I'm excited to really get into programming as an adult and to explore what this 
 
 #### My Reading Notes Table of Contents
 [Growth Mindset](growth-mindset.md)<br />
-[Markdown Notes](markdown-notes.md)<br />
-[Coder's Computer](coders-computer.md)<br />
+[Markdown Notes](markdown-notes.md)<br>
+[Coder's Computer](coders-computer.md)<br>
 [Revisions and the Cloud](revisions-cloud.md)<br>
-[HTML Structure](html-structure)
+[HTML Structure](html-structure)<br>
+[Styling with CSS](style-css.md)
 
 [Back to the top](#scott-falbo)

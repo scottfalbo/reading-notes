@@ -34,11 +34,7 @@
 <br>
 
 [Back to the mainpage](README.md)<br />
-[Growth Mindset](growth-mindset.md)<br />
-[Markdown Notes](markdown-notes.md)<br />
-[Coder's Computer](coders-computer.md)<br>
-*Revision and the Cloud* <br>
-[HTML Structure](html-structure)
+
 
 
 
