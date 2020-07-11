@@ -26,17 +26,32 @@ The `script` tag is used to tell HTML to add JavaScript.  Most `scripts` are inc
 ## Basic JavaScript Instruction
 *Chapter 2*
 
-statements
++ Statements
+    + A script is a series of instructions known as statements.  In JavaScript a statement is ended with a `;`
++ Comments
+    + use comments to explain parts of code and organize larger codes.  Comments are great for others looking at your code.
++ Variable
+    + A variable is a temporary place for your code to hold data types.
+
+
+
+
+### Basic Vocab 
++ conditionals
+    + if, else if, else
+    + for
+
++ operators
+    + +, -, ==, >=, etc.
+    + basic math operators
+
++ data types
+    + number: full interger 
+    + float: decimal
+    + boolean: true/false
+    + string: `'value'` or `"value"` both single and double quotes work
 
 
 [back to the top](#scotts-reading-notes)<br>
 [Back to the mainpage](README.md)
 
-
-<!-- 
-
-conditionals
-operators
-data types
-variable
- -->
