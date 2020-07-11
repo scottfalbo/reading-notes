@@ -102,6 +102,21 @@ Like `rgba` you can do `hsla` to specify the `alpha value`
 
 `color: hsla(90,100%,50%,0.9);`
 
+### Accessabiilty Considerations
++ Add enough color contrast.
++ Don't use color alone to make information stand out.
++ Design usable focus states
+    + focus indicators show what element the keyboard has focus on.
++ Use labels or isntructions with form fields and input prompts.
+    + placeholder text is often skipped over by accessibility features and a title is better.
++ Useful `alt` text for images.  Be descriptive and meaningful.
++ Use correct markup on your content.
+    + it's important to use proper structural elements.  Do not use HTML tags for style.
++ Support Keyboard navigation.
+    + The order of interactive elements is essential.
+
+
+
 
 
 
