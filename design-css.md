@@ -106,4 +106,4 @@ Like `rgba` you can do `hsla` to specify the `alpha value`
 
 
 [back to the top](#scotts-reading-notes)<br>
-[Back to the mainpage](README.md)<br />
+[Back to the mainpage](README.md)
