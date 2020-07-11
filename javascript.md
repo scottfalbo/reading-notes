@@ -32,6 +32,13 @@ The `script` tag is used to tell HTML to add JavaScript.  Most `scripts` are inc
     + use comments to explain parts of code and organize larger codes.  Comments are great for others looking at your code.
 + Variable
     + A variable is a temporary place for your code to hold data types.
+        + Naming rules:
+            + must start with a letter, $ or _
+            + no - or . n the name
+            + cannot use reserved words
+            + variables are case sensitive
+            + be descriptive
+            + camel case for more than one word
 
 
 
@@ -50,6 +57,7 @@ The `script` tag is used to tell HTML to add JavaScript.  Most `scripts` are inc
     + float: decimal
     + boolean: true/false
     + string: `'value'` or `"value"` both single and double quotes work
+    + 
 
 
 [back to the top](#scotts-reading-notes)<br>
