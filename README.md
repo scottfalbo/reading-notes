@@ -28,6 +28,7 @@ I'm excited to really get into programming as an adult and to explore what this 
 [HTML Structure](html-structure)<br>
 [Styling with CSS](design-css.md)<br>
 [JavaScript](javascript.md)<br>
-[How Computers Work](how-comps-work.md)
+[How Computers Work](how-comps-work.md)<br>
+[Programming with JavaScript](prog-with-java.md)
 
 [Back to the top](#scott-falbo)
