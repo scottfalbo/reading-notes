@@ -5,10 +5,10 @@
 **Intro and Scripts**
 + Access content:  JavaScript can access any element, attribute, or text from an HTML page.
 + Modify content: Add elements, attributes and text, or remove them.
-+ Program rules: Speciy steps for the browser to follow which allows to access or change the contents of a page.
-+ React to events: Specify that a script should run when an event occurs like a buttom is pressed.
++ Program rules: Specify steps for the browser to follow which allows to access or change the contents of a page.
++ React to events: Specify that a script should run when an event occurs like a button is pressed.
 
->Scripts are made up of isntrcution a computer can follow step by step.  A browser may use different parts of the script depending on how the user interacts with the web page.  Scriputs can run different sections of the code in responcse to the situation around them.
+>Scripts are made up of instructions a computer can follow step by step.  A browser may use different parts of the script depending on how the user interacts with the web page.  Scripts can run different sections of the code in response to the situation around them.
 
 + Start with the big picture
     + Define the goal
@@ -27,8 +27,8 @@ An expression evaluates into (results in) a single value.
 Operators allow programmers to create a single value from one or more values.
 + assignment operator:  `var color = 'green';`
 + arithmetic operator:  `var area = 6 * 6;`
-+ string operator: `var greeating = 'Hello' + ' world';`
-+ comparision operator = `value = 5 > 7;`
++ string operator: `var greeting = 'Hello' + ' world';`
++ comparison operator = `value = 5 > 7;`
     + *returns true or false*
 + logical operator: `value = ( 6 > 2 ) && ( 3 < 8 );`
     + *returns true or false*
@@ -36,7 +36,7 @@ Operators allow programmers to create a single value from one or more values.
 Arithmetic Operators:
 + increment: `++` : adds one to the current value
 + decrement: `--` : subtracts one from the current value
-+ moduus: `%` : divides two values and returns the remainder.
++ modulus: `%` : divides two values and returns the remainder.
 
 
 ### Functions
@@ -63,7 +63,7 @@ Function Declaration
       ```
     + Some functions **return** information to the code that called them.  in the above example if we call the function with `someNumber(11, 15);` it would return a value of 26.
 
-### Refractoring
+### Refactoring
 >Refactoring is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior.  Refactoring is intended to improve the design, structure, and/or implementation of the software (its non-functional attributes), while preserving its functionality.
 
 
