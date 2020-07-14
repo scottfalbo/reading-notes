@@ -1,5 +1,3 @@
-# Scott's Reading Notes
-
 ## How Computers Work
 [Youtube playlist](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
 

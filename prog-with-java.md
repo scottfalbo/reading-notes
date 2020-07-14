@@ -1,8 +1,8 @@
-# Scott's Reading Notes
-
-### Programming with JavaScript
+## Programming with JavaScript
 
 **Intro and Scripts**
+
+*JavaScript and Jquery, pgs 1-24*
 + Access content:  JavaScript can access any element, attribute, or text from an HTML page.
 + Modify content: Add elements, attributes and text, or remove them.
 + Program rules: Specify steps for the browser to follow which allows to access or change the contents of a page.
@@ -19,6 +19,7 @@ Programmatic problem solving.  Think like a computer, they do not solve tasks li
 
 
 ### Expressions
+*JavaScript and Jquery, pgs 74-79*
 
 An expression evaluates into (results in) a single value.
 + `var cat = 'spaceghost';`
@@ -40,6 +41,7 @@ Arithmetic Operators:
 
 
 ### Functions
+*JavaScript and Jquery, pgs 88-94*
 
 **Functions** allow you to groups a series of statements together to perform a specific task that can be called at will from different parts of your script.
 
@@ -52,7 +54,8 @@ Function Declaration
 + ```
     var sayHelloTwo = function(){
     console.log("say something else");
-}
+    }
+
   ```
 + The above code declared a function named `functionName`.  **Calling the Function** will execute the script contained within.
     + `functionName();`
@@ -72,11 +75,4 @@ Function Declaration
 >Refactoring is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior.  Refactoring is intended to improve the design, structure, and/or implementation of the software (its non-functional attributes), while preserving its functionality.
 
 
-
 [Back to Mainpage](README.md)
-
-<!--
-
-
-Return value
-Refactoring -->

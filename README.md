@@ -21,6 +21,7 @@ I'm excited to really get into programming as an adult and to explore what this 
 
 
 #### My Reading Notes Table of Contents
+### 102
 [Growth Mindset](growth-mindset.md)<br />
 [Markdown Notes](markdown-notes.md)<br>
 [Coder's Computer](coders-computer.md)<br>
@@ -30,5 +31,8 @@ I'm excited to really get into programming as an adult and to explore what this 
 [JavaScript](javascript.md)<br>
 [How Computers Work](how-comps-work.md)<br>
 [Programming with JavaScript](prog-with-java.md)
+[Operators and Loops](ops-loops.md)
+
+### 201
 
 [Back to the top](#scott-falbo)

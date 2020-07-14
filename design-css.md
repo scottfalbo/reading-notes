@@ -1,8 +1,7 @@
-# Scott's Reading Notes
 [jump to chapter 11](#color)
 
 <!-- chapter 10 -->
-### CSS
+## CSS
 *Chapter 10*
 + CSS, or Cascading Style Sheet, allows you to create rules that control how elements will appear on your site.
 + CSS works by associating rules with HTML elements.  These rules control how the content of the specified element, or elements, should be displayed.

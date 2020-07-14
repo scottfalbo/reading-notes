@@ -1,8 +1,6 @@
-# Scott's Reading Notes
+## Structure web pages with HTML
 
-### Structure web pages with HTML
-
-#### Process and Design
+### Process and Design
 *Chapter 18*
 
 + Understand your target audience.  Why would they visit your site, what information do they want/need and how often the will revisit.
@@ -11,7 +9,7 @@
 + Design is about communication.  Visual hierarchy helps visitors understand the information on the site.
     + Size, color and style are all ways to differentiate between information or sections and groups of information.
 
-#### Structure
+### Structure
 *Chapter 1*
 
 + HTML pages are text documents that use tags to give information.
@@ -21,7 +19,7 @@
     + In the above line of code *alt* and *width* are both **attributes** of the `<img src>` **element** or **tag** and the information contained within each is a **value**.
         + note: width and height are style elements and should be handled by CSS.
 
-#### HTML 5 Layout
+### HTML 5 Layout
 *Chapter 17*
 
 + HTML5 elements indicate the purpose of the different parts of a page and helps describe it's structure.  These elements provide clearer code than using multiple `<div>` elements. 
@@ -57,7 +55,7 @@ header, section, footer, aside, nav, article, figure, figcaption {display: block
 
 *For HTML5 work in IE 8 extra java script is needed.*
 
-#### Extra Markup
+### Extra Markup
 *Chapter 8*
 
 + Begin your code by telling the browser what type of document it is. 

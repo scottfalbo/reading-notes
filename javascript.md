@@ -1,5 +1,3 @@
-# Scott's Reading Notes
-
 ## Dynamic web pages with JavaScript
 *Chapter 1c*
 

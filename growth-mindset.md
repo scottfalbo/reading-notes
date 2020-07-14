@@ -1,5 +1,3 @@
-# Scott's Reading Notes
-
 ## Growth Mindset
 
 > **Growth mindset** is the belief that you can learn to do anything you want.  it is embracing challenges to help yourself grow and realizing that failure is an oppurtunity to learn.  it is trying new things and viewing criticism as constructive feedback.  It also means being inspired by the success of others and building on that knowledge.

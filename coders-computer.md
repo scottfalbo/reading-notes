@@ -1,6 +1,4 @@
-# Scott's Reading Notes
-
-### The Coder's Computer Notes
+## The Coder's Computer Notes
 
 #### Text Editor
 
