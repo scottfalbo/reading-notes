@@ -30,7 +30,7 @@ I'm excited to really get into programming as an adult and to explore what this 
 [Styling with CSS](design-css.md)<br>
 [JavaScript](javascript.md)<br>
 [How Computers Work](how-comps-work.md)<br>
-[Programming with JavaScript](prog-with-java.md)
+[Programming with JavaScript](prog-with-java.md)<br>
 [Operators and Loops](ops-loops.md)
 
 ### 201
