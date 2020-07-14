@@ -49,6 +49,11 @@ Function Declaration
         document.write('say something');
     }
   ```
++ ```
+    var sayHelloTwo = function(){
+    console.log("say something else");
+}
+  ```
 + The above code declared a function named `functionName`.  **Calling the Function** will execute the script contained within.
     + `functionName();`
 + When a function needs specific information you assign it **parameters**.  The **parameters** cat like variables inside the function.
