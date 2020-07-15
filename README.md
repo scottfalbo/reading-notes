@@ -15,7 +15,7 @@ I'm excited to really get into programming as an adult and to explore what this 
 
 **We can also connect on** 
 
-[Linkedin](https://www.linkedin.com/in/scott-falbo-5523a41b1)<br>
+[Linkedin](https://www.linkedin.com/in/scott-falbo/)<br>
 <!-- [Facebook](https://www.facebook.com/scottfalboart)<br>
 [Instagram](https://www.instagram.com/scottfalboart) -->
 
