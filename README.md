@@ -34,5 +34,20 @@ I'm excited to really get into programming as an adult and to explore what this 
 [Operators and Loops](ops-loops.md)
 
 ### 201
+Reading 01<br>
+Reading 02<br>
+Reading 03<br>
+Reading 04<br>
+Reading 05<br>
+Reading 06<br>
+Reading 07<br>
+Reading 08<br>
+Reading 09<br>
+Reading 10<br>
+Reading 11<br>
+Reading 12<br>
+Reading 13<br>
+Reading 14<br>
+Reading 15
 
 [Back to the top](#scott-falbo)
