@@ -36,7 +36,7 @@ Each object, or thing can have its own:
     ```
 + **Events**: Programs are designed to do different things when the user interacts with them.
     + > An **event** is the computer's way of saying, "Hey, this just happened."
-    + > When an eveny happens it can be used to trigger a specific section of code.  Scripts use event to trigger different functionality.
+    + > When an event happens it can be used to trigger a specific section of code.  Scripts use event to trigger different functionality.
 + **Methods**: Methods represent things the user can do with an object.   Methods can retireve or update the values of an objects properties.  It's basically a *property with a value of a function*.
 
 **Putting it all together**
