@@ -31,7 +31,7 @@ Each object, or thing can have its own:
     ```
     var myObject = {
         color: 'black',
-         name: 'spaceghost
+         name: 'spaceghost'
     };
     ```
 + **Events**: Programs are designed to do different things when the user interacts with them.
