@@ -1,6 +1,8 @@
 #  Scott Falbo
 
-[jump to table of contents](#my-reading-notes-table-of-contents)
+[102 Notes](#102)<br>
+[201 Notes](#201)<br>
+[301 Notes](#301)
 
 <!---
 ![photo](https://avatars1.githubusercontent.com/u/67803329?s=460&u=92ace7e6cedf0c3582317b5620d2575ca0d49604&v=4) --->
@@ -34,7 +36,7 @@ I'm excited to really get into programming as an adult and to explore what this 
 [Operators and Loops](ops-loops.md)
 
 ### 201
-Reading 01<br>
+[Class 01 Notes](class-201-01-notes.md)<br>
 Reading 02<br>
 Reading 03<br>
 Reading 04<br>
@@ -49,5 +51,7 @@ Reading 12<br>
 Reading 13<br>
 Reading 14<br>
 Reading 15
+
+### 301
 
 [Back to the top](#scott-falbo)

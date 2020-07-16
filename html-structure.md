@@ -74,4 +74,6 @@ header, section, footer, aside, nav, article, figure, figcaption {display: block
 
 <br>
 
-[Back to the mainpage](README.md)<br />
+[Back to 201 class notes](class-201-01-notes.md)<br>
+[Back to the mainpage](README.md)
+
