@@ -75,5 +75,5 @@ Function Declaration
 >Refactoring is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior.  Refactoring is intended to improve the design, structure, and/or implementation of the software (its non-functional attributes), while preserving its functionality.
 
 
-[Back to 201 class notes](class-201-01-notes.md)<br>
-[Back to the mainpage](README.md)
+[Back to 201 class notes](../201/class-201-01-notes.md)<br>
+[Back to the mainpage](../README.md)

@@ -7,12 +7,12 @@
 + Chapter 17: HTML5 Layout
 + Chapter 18: Process and Design
 
-[Previous reading notes from the above chapters](html-structure.md)
+[Previous reading notes from the above chapters](../102/html-structure.md)
 
 ## JS Chapter 1: "The ABC of Programming"
 *pages 11-52*
 
-[Previous reading notes for pages 1-24](prog-with-java.md)
+[Previous reading notes for pages 1-24](../102/prog-with-java.md)
 
 ### How do computers fit in with the world around them
 
@@ -47,8 +47,8 @@ Each object, or thing can have its own:
 
 
 
-[Previous notes from pages 43-52](javascript.md)
+[Previous notes from pages 43-52](../102/javascript.md)
 
 
 
-[Back to Mainpage](README.md)
+[Back to Mainpage](../README.md)
