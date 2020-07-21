@@ -119,5 +119,6 @@ Like `rgba` you can do `hsla` to specify the `alpha value`
 
 
 
+[back to class 02 notes](../201/class-02.md)<br>
 [back to the top](#scotts-reading-notes)<br>
 [Back to the mainpage](../README.md)

@@ -58,6 +58,7 @@ The `script` tag is used to tell HTML to add JavaScript.  Most `scripts` are inc
     + 
 
 
-[Back to 201 class notes](../201/class-201-01-notes.md)<br>
+[Back to 201 class 01 notes](../201/class-201-01-notes.md)<br>
+[Back to 201 class 02 notes](../201/class-02.md)<br>
 [Back to the mainpage](../README.md)
 

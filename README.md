@@ -24,7 +24,7 @@
 
 ### 201
 [Class 01 Notes](201/class-201-01-notes.md)<br>
-Reading 02<br>
+[Class 02 notes](201/class-02.md)<br>
 Reading 03<br>
 Reading 04<br>
 Reading 05<br>
