@@ -25,7 +25,7 @@
 ### 201
 [Class 01 Notes](201/class-201-01-notes.md)<br>
 [Class 02 notes](201/class-02.md)<br>
-Reading 03<br>
+[Lists and Control Flow](201/notes-03.md)<br>
 Reading 04<br>
 Reading 05<br>
 Reading 06<br>
