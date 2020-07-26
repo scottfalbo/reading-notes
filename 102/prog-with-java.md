@@ -76,4 +76,5 @@ Function Declaration
 
 
 [Back to 201 class notes](../201/class-201-01-notes.md)<br>
+[Back to 201 Object notes](../201/read-04-notes.md)<br>
 [Back to the mainpage](../README.md)
