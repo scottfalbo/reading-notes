@@ -4,19 +4,7 @@
 *html and css, pages 62-73*
 
 + **Ordered Lists**: A numbered list, used for listing steps.
-  + ```
-    <ol>
-      <li></li>
-      <li></li>
-    </ol>
-    ```
-+ **Unordered Lists**: Bullet point list
-  + ```
-    <ul>
-      <li></li>
-      <li></li>
-    <ul>
-    ```
++ **Unordered Lists**: Bullet point list.
 + **Definition Lists**: Made up of terms and definitions.
   + ```
     <d1>
@@ -26,19 +14,8 @@
         <dd></dd>
     </d1>      
     ```
++ You can also **nest** lists within lists
 
-You can also **nest** lists within lists:
-```
-<ul>
-  <li></li>
-  <li>
-    <ul>
-      <li></li>
-      <li></li>
-    </ul>
-  </li>
-</ul>
-```
 
 ## Boxes
 *html and cs, pages 300-329*
@@ -114,4 +91,4 @@ switch (varName) {
 [Previous notes on While, Do While, and For Loops](../102/ops-loops.md)
 
 
-[Back to the mainpage](../README.md)
+[Back to the main page](../README.md)
