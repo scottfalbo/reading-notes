@@ -28,7 +28,7 @@
 [Lists and Control Flow](201/notes-03.md)<br>
 [Links, Layout and Functions](201/read-04-notes.md)<br>
 [Images, Color and Text](201/read-05.md)<br>
-Reading 06<br>
+[Object Literals, The DOM](201/read-06.md)<br>
 Reading 07<br>
 Reading 08<br>
 Reading 09<br>
