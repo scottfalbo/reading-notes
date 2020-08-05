@@ -6,7 +6,7 @@
 
 
 
-**[GetHub](https://github.com/scottfalbo)**
+**[GitHub](https://github.com/scottfalbo)**
 
 
 ## My Reading Notes Table of Contents
