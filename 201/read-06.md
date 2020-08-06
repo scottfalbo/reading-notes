@@ -50,6 +50,10 @@ var myObject {
 ### Document Object Model (DOM), chapter 5
 *Duckett, javascript 183-242*
 
+[jump to get/update element content](#get-and-update-element-content)<br>
+[jump to Attribute Nodes](#Attribute-Nodes)
+
+
 > The DOM specifies how browsers should create a model of the HTML page and how JavaScript can access and update the content while it's in the browser window.
 
 The browser creates a model of the page called a **DOM Tree** which is stored in the browser's memory.  It consists of four main types of nodes:
@@ -89,7 +93,83 @@ You can loop through a NodeList in the same way you would an array.
       itemColors[i].className = 'blue';
     }
     ```
-    + `var itemColors` 
+    + `var itemColors` contains a NodeList with all `<li>` whose class attribute is `.green`.
+    + As usual `.length` is as the conditional in the for loop.
+
++ **Traversing the DOM**: When you have an element node you can select another element in relation to it.
+  + `parentNode`: The element above the element you're in.
+  + `previousSibling`, `nextSibling`: Find the previous or next sibling element.
+  + `firstChild`, `lastChild`: Find the first or last child of the current element.
+  + *javascript pages 210-211 for examples*
++ This way of traversing the DOM is difficult because most browsers treat space between elements as text nodes so the above properties are not best practice.  It is best to avoid using them.
+
+### Get and Update Element Content
+
++ To work with an element you can:
+  + Navigate to text nodes.  This is best when the element contains only text.
+    + text nodes have one property called `nodeValue`. *pg 214*
+  + Work with the containing element: This allows access to chid elements and text nodes.
++ When you are working with an element it can contain mark up.  You can choose whether to grab the markup as well as the text.
+  + `innerHTML`: get/set markup and text *pg 220*
+  + `textContent`, `innerText`: get/set text only *pg 216*
+
+  *javascript pages 214-221 for examples and reference with tree diagrams for visual aid.*
+
+  + Adding elements using DOM manipulation.
+    1. Create the element: `createElement()`
+    2. Give it content: `createTextNode()`
+    3. Add it to the DOM: `appendChild()`
+  + *see page 223 for example*.
+
++ Removing elements with DOM manipulation.
+  1. Store the element to be removed in a variable.
+  2. Store the parent of that element in a variable.
+  3. Remove the element from its containing element.
+      + `removeChild()` is used on the containing element from step 2.
+  + *see page 225 for example*
+
+**Comparing the three ways to update html content.**  
+  + `document.write`
+  + **advantages**:
+    + It's quick and easy
+  + **disadvantages**:
+    + It only works when the page initially loads.
+    + It can cause issues if used after the page is loaded.
+    + This method is *rarely used* and *not best practice*.
+  + `element.innerHTML`
+  + **advantages**:
+    + Can add more markup with less DOM manipulation code.
+    + Can be faster than DOM manipulation when adding a lot of new elements.
+    + It is a simple way to remove all of the content from element.
+  + **disadvantages**: 
+    + It should not be used to enter information from the user as it is a significant security risk.
+    + It can be difficult to isolate specific elements on a larger DOM.
+    + Event handlers may no longer work as intended.
+  + `DOM Manipulation`
+  + **advantages**:
+    + It is good for targeting one element if there are many siblings.
+    + It does not affect event handlers.
+    + It allows script to add things incrementally.
+  + **disadvantages**:
+    + If you have to make a lot of changes it is slower than `innerHTML`.
+    + You need to write more code to achieve the same thing as `innerHTML`
+
+#### Cross-site scripting Attacks, or XSS
+Using `innerHTML` can cause security risks.  *pages 228-231 for deeper detail and possible work arounds*.
+
+
+### Attribute Nodes
+
+> Once you have an element node, you can use other properties and methods on that element node to access and change its attributes.
+
++ Select the element node that carries the attribute.
++ Then use a property or method
++ `document.getElementById('ethel').getAttribute('class');`
++ *pages 233-235 for other methods and uses*.
+
+You can examine the DOM in Chrome in element > properties
+
+*pages 240-241 for an implemented use.*
 
 
 [Back to the main page](../README.md)
