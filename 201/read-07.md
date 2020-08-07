@@ -1,4 +1,4 @@
-##201 Read-07 Notes: Domain Modeling, Tables, Functions, Methods and Objects
+## 201 Read-07 Notes: Domain Modeling, Tables, Functions, Methods and Objects
 
 ### Domain Modeling
 > **Domain Modeling** is the process of creating a conceptual model for a specific problem.
