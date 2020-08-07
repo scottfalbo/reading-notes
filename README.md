@@ -29,7 +29,7 @@
 [Links, Layout and Functions](201/read-04-notes.md)<br>
 [Images, Color and Text](201/read-05.md)<br>
 [Object Literals, The DOM](201/read-06.md)<br>
-Reading 07<br>
+[Domain Model, Tables, Objects](201/read-07.md)<br>
 Reading 08<br>
 Reading 09<br>
 Reading 10<br>
