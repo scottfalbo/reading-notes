@@ -1,7 +1,12 @@
 ##201 Read-07 Notes: Domain Modeling, Tables, Functions, Methods and Objects
 
 ### Domain Modeling
+> **Domain Modeling** is the process of creating a conceptual model for a specific problem.
 
++ When modeling a single entity that will have many instances use a constructor function to build self-contained objects with the same attributes.
++ Each **method** should be small and have one job.
+
+[see more below](#creating-multiple-objects)
 
 ### Tables, chapter 6
 *Duckett html and css, pages 126-145*
