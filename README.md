@@ -30,7 +30,7 @@
 [Images, Color and Text](201/read-05.md)<br>
 [Object Literals, The DOM](201/read-06.md)<br>
 [Domain Model, Tables, Objects](201/read-07.md)<br>
-Reading 08<br>
+[CSS Layout](201/read-08.md)<br>
 Reading 09<br>
 Reading 10<br>
 Reading 11<br>
