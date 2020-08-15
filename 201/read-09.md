@@ -163,6 +163,20 @@ There are three types of **Event Handlers**
 
 #### The Event Object
 
+*I don't get it, page 262*
+
+**Event Delegation**
+> Creating event listeners for a lot of elements can slow down a page, but event flow allows you to listen for an event on a parent element.
+
++ You can place event handlers on a containing element and then use the `event` objects `target` property to find which of the children the evnt happened on.
++ **Additional benefits of event delegation**
+  + If you add new elements to the DOM tree they will have the event handler because an ancestor has it.
+  + Simplifies your code.  Fewer functions and fewer ties between the DOM and code.
+
+> The event object has methods that change the default behavior of an element and how the element's ancestors respond to the event.
++ `preventDefault()`: Prevents the default behavior of an element, such as a link taking you to a new page.
++ `stopPropagation()`: This will stop the event from bubbling up to it's ancestors. 
+
 
 
 
