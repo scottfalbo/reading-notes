@@ -1,4 +1,6 @@
 ## 201 Read-09: Forms and JS Events
+[jump to Styling list, tables and forms](#styling-lists-tables-and-forms)<br>
+[jump to JavaScript Events](#events)
 
 ### Forms
 *Duckett html and css chapter 7 pages 144-175*
@@ -68,12 +70,12 @@ Information is sent to the server using name/value pairs
 > Any form can have a placeholder text by using the `placeholder` attribute in the input element.
 
 
-### Styling Lists, Tables & Forms
+### Styling Lists, Tables and Forms
 *Duckett html and css chapter 14 pages 330-357*
 
 `list-style-type` property
 + `<ul>` can use `none, disc, circle, square`
-+ `<ol>` can use `decimal, decimcal-leading-zero, lower-alpha, upper-alpha, lower-roman, upper-roman`
++ `<ol>` can use `decimal, decimal-leading-zero, lower-alpha, upper-alpha, lower-roman, upper-roman`
   + ```
     ol {
       list-style-type: upper-alpha;
@@ -102,10 +104,64 @@ Information is sent to the server using name/value pairs
     + use cursor types where they are relevant so its not confusing to the user.
 
 
-
 ### Events
 *Duckett javascript chapter 6 pages 243-292*
 
+> Different events occur in the browser while you are browsing the web.  Any of these events can be used to trigger a function in your JavaScript.
++ UI events
++ Keyboard events
++ Mouse events
++ Focus events
++ Form events
++ Mutation events
+  + *Duckett javascript pages 246-247 for a list of events*
+
+When an event occurs it has been **Fired** or **Raised** and this will cause it to **Trigger** a function or script.
+
++ There are three parts involved in triggering code, these steps are referred to as an **Event Handler**
+  + Select the element node(s) you want the script to respond to.
+  + Indicate which **event** on the selected node(s) will trigger the response.
+    + this is known as **Binding** an event to a DOM node.
+  + State the code you want to run when this event occurs.
+
+There are three types of **Event Handlers**
++ **HTML event handlers** *Bad practice, don't do it*
++ **Traditional DOM event handlers**
+  + > All modern browsers understand this way of creating an event handler, but you can only attach one function to each event handler.
+  + `elementNode.*on*event = functionName;`
+  + ```
+    function someFunction(){
+      // do some stuff
+    }
+    var element = document.getElementById('someName');
+    element.onclick = someFunction;
+    ```
+    + The `()` are omitted in the event handler so the code does not run until fired.
++ **DOM level 2 event listeners**
+  + Event listeners are a more modern approach.  They can handle more than one function at a time.
+    + `element.addEventListener('event', functionName, boolean);`
+    + adapting the above code snippet the last line would instead be:
+      + `element.addEventListener('click', someFunction, false);`
+      + The boolean at the end controls event flow, more to follow.
+
++ Parameters and Event Handlers
+  + Because you cannot use `()` in even handlers you have to use a work around to pass parameters in.
+    + ```
+      element.addEventListener('click', function() {
+        someFunction(parameter);
+      }, false;
+      ```
+
+#### Event Flow
+> HTML elements nest inside other elements.  If you hover or click on a link, you will also be hovering or clicking on its parent elements.
+  + **Event Bubbling**: The event starts at the most specific node and flows outwards.  This is default.
+  + **Event Capturing**: The event starts at the least specific and flows inward.
++ The flow of elements matters when you have different events on an element and its ancestors.
++ In the event handler the final boolean controls the flow.
+  + `true` = capturing phase
+  + `false` = bubbling phase
+
+#### The Event Object
 
 
 
