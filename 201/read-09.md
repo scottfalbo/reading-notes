@@ -65,12 +65,41 @@ Information is sent to the server using name/value pairs
 
 *Duckett html and css pages 165-168, Form validation, date input, email and url input and search input*.
 
-Any form can have a placeholder text by using the `placeholder` attribute in the input element.
+> Any form can have a placeholder text by using the `placeholder` attribute in the input element.
 
 
-### Lists, Tables & Forms
+### Styling Lists, Tables & Forms
 *Duckett html and css chapter 14 pages 330-357*
 
+`list-style-type` property
++ `<ul>` can use `none, disc, circle, square`
++ `<ol>` can use `decimal, decimcal-leading-zero, lower-alpha, upper-alpha, lower-roman, upper-roman`
+  + ```
+    ol {
+      list-style-type: upper-alpha;
+    }
+    ```
++ `list-style-image: url("images/file.png");` can be used to insert an image as a bullet point.
+    + this can used in the `<ul>` or `<li>` elements
+
++ `list-style-position: outside/inside;`
+  + This places the bullet either outside or inside of the block of text.
+
+**List Style Shorthand**
+  + `list-style: inside circle;` would assign both position and type
+
+*Duckett html and css pages 337-346 table and form styling attributes, pretty much the same as any other.*
+
+**Unique attributes**
++ Empty Cell: `empty-cells: show/hide;` hides or shows empty cells
++ Collapse: `border-collapse: collapse;`
+  + Borders are collapsed to a single border where possible.  `border-spacing` and `empty-cells` are ignored.
++ Focus and Hover: `input:focus, input:hover`
+  + Hover takes effect when the mouse cursor is over the element
+  + Focus changes the color when it's being used
++ Cursor Styles: `cursor: default;`
+  + `auto, crosshair, default, pointer, move, text, wait, help, url("some.gif")`
+    + use cursor types where they are relevant so its not confusing to the user.
 
 
 
