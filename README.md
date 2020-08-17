@@ -32,7 +32,7 @@
 [Domain Model, Tables, Objects](201/read-07.md)<br>
 [CSS Layout](201/read-08.md)<br>
 [Forms and JS Events](201/read-09.md)<br>
-Reading 10<br>
+[Error Handling and Debugging](201/read-10.md)<br>
 Reading 11<br>
 Reading 12<br>
 Reading 13<br>
