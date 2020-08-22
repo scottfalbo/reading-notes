@@ -1,4 +1,4 @@
-## 201 Read-11: Audio, Video, Images
+## 201 Read-11: Images, SEO
 
 
 ### Image, chapter 16:
