@@ -34,7 +34,7 @@
 [Forms and JS Events](201/read-09.md)<br>
 [Error Handling and Debugging](201/read-10.md)<br>
 [Images and SEO](201/read-11.md)<br>
-Reading 12<br>
+[Chart.js and Canvas](201/read-12.md)<br>
 Reading 13<br>
 Reading 14<br>
 Reading 15
