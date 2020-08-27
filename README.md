@@ -35,7 +35,7 @@
 [Error Handling and Debugging](201/read-10.md)<br>
 [Images and SEO](201/read-11.md)<br>
 [Chart.js and Canvas](201/read-12.md)<br>
-Reading 13<br>
+[Local Storage](201/read-13.md)<br>
 Reading 14<br>
 Reading 15
 
