@@ -15,6 +15,14 @@ Unlike cookies this data is never transmitted to the remote web server.
 
 + `sessionStorage` acts the same as `localStorage` but only holds the data for one session.  When the tab is closed the data is removed.
 
+#### tracking Changes to HTML5 Storage Area
++ To track storage area changes you can **trap** the **storage event**.  The storage event is included everywhere the `localStorage` object is supported.  
+  + The `Storage Event` holds:
+    + `key` the named key that was added, removed or modified.
+    + `oldValue` the previous, now overwritten, value.
+    + `newValue` the new value.
+    + `url` the page that called the method which triggered the change.
+
 
 
 
