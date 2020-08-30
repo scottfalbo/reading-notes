@@ -36,7 +36,7 @@
 [Images and SEO](201/read-11.md)<br>
 [Chart.js and Canvas](201/read-12.md)<br>
 [Local Storage](201/read-13.md)<br>
-Reading 14<br>
+[Psychological Safety, CSS Animation](201/read-14.md)<br>
 Reading 15
 
 ### 301
