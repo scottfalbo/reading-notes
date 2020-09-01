@@ -35,9 +35,16 @@ The transform property comes in two different settings, two-dimensional and thre
 + `perspective();` is like a vanishing point.  The higher the value the further away the vanishing point will appear.
   + you can add perspective to single element or to a group by applying the property to the parent element.
   + `perspective-origin: x y;`
-  
+
 
 ### 3D Transforms
++ 2D transforms alter the x and y axes.  Using 3D dimensional transforms you can change elements on the z axes, `rotateZ`.
++ `scaleZ` scales the element on the z axes
++ `translateZ` Push the z Axes away or bring it closer.
++ `transform-style;`
++ > On occasion three-dimensional transforms will be applied on an element that is nested within a parent element which is also being transformed. In this event, the nested, transformed elements will not appear in their own three-dimensional space. To allow nested elements to transform in their own three-dimensional plane use the `transform-style` property with the `preserve-3d` value.
++ `backface-visibility;`
++ > When working with three-dimensional transforms, elements will occasionally be transformed in a way that causes them to face away from the screen. This may be caused by setting the `rotateY(180deg)` value for example. By default these elements are shown from the back. So if you prefer not to see these elements at all, set the `backface-visibility` property to `hidden`, and you will hide the element whenever it is facing away from the screen.
 
 
 
