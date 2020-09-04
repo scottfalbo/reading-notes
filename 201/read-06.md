@@ -19,7 +19,7 @@
 
 **Literal Notation**
 ```
-var myObject {
+var myObject = {
   name: 'Spaceghost',
   numOne: 66,
   numTwo: 13,
