@@ -33,6 +33,3 @@
 
 
 [Back to the mainpage](../README.md)
-
-
-test spelling error
