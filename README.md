@@ -37,7 +37,6 @@
 [Chart.js and Canvas](201/read-12.md)<br>
 [Local Storage](201/read-13.md)<br>
 [Psychological Safety, CSS Animation](201/read-14.md)<br>
-Reading 15
 
 ### 301
 [JQuery Pre-Work](301/jquery-prework.md)<br>
