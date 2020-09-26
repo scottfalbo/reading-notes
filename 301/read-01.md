@@ -104,6 +104,26 @@
 ## All About Floats
 [link](https://css-tricks.com/all-about-floats/)<br>
 
++ Floated elements remain a part of the flow of the web page.
+  + `right`, `left` floats elements to right or left.
+  + `none` will not float at all
+  + `inherit` float values of parent element
+  + `clear: left, right or both;` will push an element down until the specified side does touch others.
++ *If the a container element only contains float elements the height of the parent will collapse to 0.*
++ **Empty `<div>` method**: Some times an empty element with `clear: both;` can be used to manipulate layout.
+  + *not the most semantic way of doing things*
++ **Overflow Method**:  `overflow: auto or hidden;` on the parent element will expand it to contain the floats effectively clearing it.  This is more sematic than the above method provided you aren't creating extra elements to make it work.  This is also not a float specific rule so it may cause issues with hiding other content.
++ **Easy Clearing Method**: Rather than applying `overflow` to the parent this will create a new small bit of hidden content after the parent element which clears floats.
+  + ```
+    .clearfix:after { 
+      content: "."; 
+      visibility: hidden; 
+      display: block; 
+      height: 0; 
+      clear: both;
+    }
+    ```
+
 
 ## Don't Over Think Grids
 [link](https://css-tricks.com/dont-overthink-it-grids/)<br>
