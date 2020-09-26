@@ -1,11 +1,10 @@
 # 301 Read 01: SMACSS and Reponsive Web Design
 *Scalable and Modular Architecture*<br>
 
-[all about floats](#all-about-floats)<br>
-
+[jump to floats](#all-about-floats)<br>
 
 ## Intro to Responsive Web Design
-[link](https://learn.shayhowe.com/advanced-html-css/responsive-web-design/)<br>
+[article link](https://learn.shayhowe.com/advanced-html-css/responsive-web-design/)<br>
 > Responsive web design is the practice of building a website suitable to work on every device and every screen size.
 
   + **Responsive Design**: React quickly and positively to any change.
@@ -102,7 +101,7 @@
   
 
 ## All About Floats
-[link](https://css-tricks.com/all-about-floats/)<br>
+[article link](https://css-tricks.com/all-about-floats/)<br>
 
 + Floated elements remain a part of the flow of the web page.
   + `right`, `left` floats elements to right or left.
@@ -124,17 +123,20 @@
     }
     ```
 
+[**CSS Floats Explained By Riding An Escalator**](https://www.freecodecamp.org/news/css-floats-explained-by-riding-an-escalator-57fa55232333/)<br>
 
-## Don't Over Think Grids
-[link](https://css-tricks.com/dont-overthink-it-grids/)<br>
++ Floats create an alternative flow.
+  + There is a left flow and a right flow and other elements can easily fill the spaces in between.
 
+<br>
 
-## CSS floats
-[link](https://www.freecodecamp.org/news/css-floats-explained-by-riding-an-escalator-57fa55232333/)<br>
+## Grids
+[Don't Over Think Grids](https://css-tricks.com/dont-overthink-it-grids/)<br>
 
+## SMACSS documentation
+[Official SMACSS Documentation](http://smacss.com/)
 
-## Official SMACSS Documentation
-[link](http://smacss.com/)<br>
+<br>
 
 
 [Back to the main page](../README.md) 
