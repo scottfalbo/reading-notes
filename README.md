@@ -41,6 +41,6 @@
 ### 301
 [JQuery Pre-Work](301/jquery-prework.md)<br>
 [Responsive Web Design](301/read-01.md)<br>
-[Responsive Web Design](301/read-02.md)<br>
+[JQuery, Events and the DOM](301/read-02.md)<br>
 
 [Back to the top](#scott-falbo)
