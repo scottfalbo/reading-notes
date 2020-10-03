@@ -42,5 +42,6 @@
 [JQuery Pre-Work](301/jquery-prework.md)<br>
 [Responsive Web Design](301/read-01.md)<br>
 [JQuery, Events and the DOM](301/read-02.md)<br>
+[Mustache and Flexbox](301/read-03.md)<br>
 
 [Back to the top](#scott-falbo)
