@@ -43,6 +43,6 @@
 [Responsive Web Design](301/read-01.md)<br>
 [JQuery, Events and the DOM](301/read-02.md)<br>
 [Mustache and Flexbox](301/read-03.md)<br>
-[Regex](301/regex.md)<br>
+[CSS Grid and Regex](301/read-04.md)<br>
 
 [Back to the top](#scott-falbo)
