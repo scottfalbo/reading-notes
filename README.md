@@ -44,5 +44,6 @@
 [JQuery, Events and the DOM](301/read-02.md)<br>
 [Mustache and Flexbox](301/read-03.md)<br>
 [CSS Grid and Regex](301/read-04.md)<br>
+[Heroku Deployment](301/read-05.md)<br>
 
-[Back to the top](#scott-falbo)
+[Back to the top](#scott-falbo-reading-notes)
