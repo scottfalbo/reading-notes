@@ -45,5 +45,6 @@
 [Mustache and Flexbox](301/read-03.md)<br>
 [CSS Grid and Regex](301/read-04.md)<br>
 [Heroku Deployment](301/read-05.md)<br>
+[Node.js](301/read-06.md)<br>
 
 [Back to the top](#scott-falbo-reading-notes)
