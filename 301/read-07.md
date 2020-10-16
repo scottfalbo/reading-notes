@@ -11,7 +11,9 @@
 + The machines use the URL to tell each other where things are.  If everything that machines need to talk about has a corresponding URL, you've created the machine equivalent of a noun.
 + Different languages, databases and systems have different ways of looking at nouns.  The URL is important because it tells them about each others nouns.
 + **Polymorphism** is the concept that different nouns can have the sames verbs applied to them.
-+ 
++ Some verbs are basically universal like, `get`, `put`, and `delete`
+
+*API keys acquired* 
 
 
 [Back to the main page](../README.md) 
