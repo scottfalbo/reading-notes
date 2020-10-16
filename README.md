@@ -46,5 +46,6 @@
 [CSS Grid and Regex](301/read-04.md)<br>
 [Heroku Deployment](301/read-05.md)<br>
 [Node.js](301/read-06.md)<br>
+[REST Representational state transfer](301/read-07.md)<br>
 
 [Back to the top](#scott-falbo-reading-notes)
