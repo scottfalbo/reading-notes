@@ -65,8 +65,31 @@
 ## Schema
 *13-18*
 
+> The database schema is what describes the structure of each table, and the datatypes that each column of the table can contain.
+
++ `INSERT` allows us to insert new data into the database
+  + ```
+    INSERT INTO tableName
+    (column01, column02)
+    VALUES (value1, value2);
+    ```
+
++ `UPDATE` can update existing data in a table
+  + ```
+    UPDATE tableName
+    SET column = value,
+        column2 = value2
+    WHERE <condition>;
+    ```  
+  + > One helpful tip is to always write the constraint first and test it in a SELECT query to make sure you are updating the right rows, and only then writing the column/value pairs to update.
 
 
++ `DELETE` delete row(s)
+  + ```
+    DELETE FROM tableName
+    WHERE condition;
+    ```
 
++ `CREATE TABLE`
 
 [Back to the main page](../README.md) 
