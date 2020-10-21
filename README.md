@@ -47,5 +47,6 @@
 [Heroku Deployment](301/read-05.md)<br>
 [Node.js](301/read-06.md)<br>
 [REST Representational state transfer](301/read-07.md)<br>
+[SQL](301/read-08.md)<br>
 
 [Back to the top](#scott-falbo-reading-notes)
