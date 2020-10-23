@@ -1,8 +1,8 @@
 #  Scott Falbo Reading Notes
 
-[102 Notes](#102)<br>
+[301 Notes](#301)<br>
 [201 Notes](#201)<br>
-[301 Notes](#301)
+[102 Notes](#102)<br>
 
 
 
@@ -10,17 +10,17 @@
 
 
 ## My Reading Notes Table of Contents
-### 102
-[Growth Mindset](102/growth-mindset.md)<br />
-[Markdown Notes](102/markdown-notes.md)<br>
-[Coder's Computer](102/coders-computer.md)<br>
-[Revisions and the Cloud](102/revisions-cloud.md)<br>
-[HTML Structure](102/html-structure)<br>
-[Styling with CSS](102/design-css.md)<br>
-[JavaScript](102/javascript.md)<br>
-[How Computers Work](102/how-comps-work.md)<br>
-[Programming with JavaScript](102/prog-with-java.md)<br>
-[Operators and Loops](102/ops-loops.md)
+### 301
+[JQuery Pre-Work](301/jquery-prework.md)<br>
+[Responsive Web Design](301/read-01.md)<br>
+[JQuery, Events and the DOM](301/read-02.md)<br>
+[Mustache and Flexbox](301/read-03.md)<br>
+[CSS Grid and Regex](301/read-04.md)<br>
+[Heroku Deployment](301/read-05.md)<br>
+[Node.js](301/read-06.md)<br>
+[REST Representational state transfer](301/read-07.md)<br>
+[SQL](301/read-08.md)<br>
+[Refactoring](301/read-09.md)<br>
 
 ### 201
 [Class 01 Notes](201/class-201-01-notes.md)<br>
@@ -38,15 +38,18 @@
 [Local Storage](201/read-13.md)<br>
 [Psychological Safety, CSS Animation](201/read-14.md)<br>
 
-### 301
-[JQuery Pre-Work](301/jquery-prework.md)<br>
-[Responsive Web Design](301/read-01.md)<br>
-[JQuery, Events and the DOM](301/read-02.md)<br>
-[Mustache and Flexbox](301/read-03.md)<br>
-[CSS Grid and Regex](301/read-04.md)<br>
-[Heroku Deployment](301/read-05.md)<br>
-[Node.js](301/read-06.md)<br>
-[REST Representational state transfer](301/read-07.md)<br>
-[SQL](301/read-08.md)<br>
+### 102
+[Growth Mindset](102/growth-mindset.md)<br />
+[Markdown Notes](102/markdown-notes.md)<br>
+[Coder's Computer](102/coders-computer.md)<br>
+[Revisions and the Cloud](102/revisions-cloud.md)<br>
+[HTML Structure](102/html-structure)<br>
+[Styling with CSS](102/design-css.md)<br>
+[JavaScript](102/javascript.md)<br>
+[How Computers Work](102/how-comps-work.md)<br>
+[Programming with JavaScript](102/prog-with-java.md)<br>
+[Operators and Loops](102/ops-loops.md)
+
+
 
 [Back to the top](#scott-falbo-reading-notes)
