@@ -56,7 +56,18 @@
     </ul>
     ```
 + **Layouts**
+  + Layouts are not native to EJS.  
+    + `npm install --save express-ejs-layouts`
+    + `const expressLayouts = require('express-ejs-layouts);`
+    + `app.use(expressLayouts)`
+  + `layout.ejs`
+    + ```
+      <body>
+        <%- body %>
+      </body>
+      ```
 + **Partials**
+   + Partials ar reused pieces of code like header, footer and head.
 
 ### File Structure 
 ```
@@ -71,6 +82,12 @@
 - package.json
 - server.js
 ```
++ Partials are pieces of code that are reused a bunch of times.  Head, header and footer.
++ ```
+  <head>
+    <%- include('../partials/head'); %>
+  </head>
+  ```
 
 
 [Google Books API docs](https://developers.google.com/books/docs/v1/using#WorkingVolumes)<br>
