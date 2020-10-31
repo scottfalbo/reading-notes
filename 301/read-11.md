@@ -44,7 +44,7 @@
     </ul>
     ```
 + **Conditionals**
-  <!-- + ```
+  + ```
     <ul>
       <% for(let i of cats){ %>
         <% if(i.name === 'Spaceshost'){%>
@@ -52,9 +52,9 @@
         <% }else{ %>
           <li>It's Mr. <%= i.name %></li>
         <% } %>
-      <% } %>
+      <%}%>
     </ul>
-    ``` -->
+    ```
 + **Layouts**
   + Layouts are not native to EJS.  
     + `npm install --save express-ejs-layouts`
