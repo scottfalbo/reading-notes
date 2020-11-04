@@ -23,6 +23,7 @@
 [Refactoring](301/read-09.md)<br>
 [The Call Stack](301/read-10.md)<br>
 [EJS](301/read-11.md)<br>
+[EJS partials](301/read-12.md)<br>
 
 ### 201
 [Class 01 Notes](201/class-201-01-notes.md)<br>

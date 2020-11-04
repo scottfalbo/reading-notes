@@ -45,15 +45,7 @@
     ```
 + **Conditionals**
   + ```
-    <ul>
-      <% for(let i of cats){ %>
-        <% if(i.name === 'Spaceshost'){%>
-          <li>Here is the loaf, <%= i.name %></li>
-        <% }else{ %>
-          <li>It's Mr. <%= i.name %></li>
-        <% } %>
-      <%}%>
-    </ul>
+
     ```
 + **Layouts**
   + Layouts are not native to EJS.  
@@ -68,6 +60,7 @@
       ```
 + **Partials**
    + Partials ar reused pieces of code like header, footer and head.
+   + [read-12](read-12.md)<br>
 
 ### File Structure 
 ```
