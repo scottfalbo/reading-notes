@@ -17,6 +17,7 @@
 ### Server Side: Retrieving Data
 + Which ever method you use the server will receive a string that is parsed into a list of `key:value` pairs.
 
+
 ## Styling forms
 [video series on form styling](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g5_p_BVUGWykHfqx6bb7qK);<br>
 [tutorial repo](https://github.com/iamshaunjp/styling-html5-forms-playlist)

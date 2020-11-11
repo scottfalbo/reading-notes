@@ -25,6 +25,7 @@
 [EJS](301/read-11.md)<br>
 [EJS partials](301/read-12.md)<br>
 [Update and Delete](301/read-13.md)<br>
+[Database Normalization](301/read-14.md)<br>
 
 ### 201
 [Class 01 Notes](201/class-201-01-notes.md)<br>
