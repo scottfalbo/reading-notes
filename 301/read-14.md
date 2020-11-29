@@ -14,4 +14,6 @@ It is best to make a database about a single thing instead of storing informatio
   + **Second Normal Form** – The table is in first normal form and all the columns depend on the table’s primary key.
   + **Third Normal Form** – the table is in second normal form and all of its columns are not transitively dependent on the primary key
 
+  
+
 [Back to the main page](../README.md) 
