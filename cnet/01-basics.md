@@ -1,7 +1,9 @@
 # The Basics
 
 + **Namespace**
-  + `using System;`
+  + `namespace ProjectName` for grouping files
+
++ `using System;`
   + `System.Console` -> `Console`
 
 + **Data Types**
@@ -22,7 +24,7 @@
     Thread.Sleep(1000);
     ```
 
-+ **Declaring a Method**
++ ## **Declaring a Method**
 + ```
   static void methodName(int numVar, string textVar)
   {
@@ -42,9 +44,27 @@
   + `\t` tab
   + `\"` "
 
++ Cast a value
+  + `int number = (int)12.5;`
+    + will drop the decimal and change type to int
+    + only works with numeric types
++ Convert String to Integer
+  + `int dozen = int.Parse("12");`
 
-
-
-
++ ## **Comparison Operators**
+  + `==`, `!=`, `>`, `<`
+  + ```
+    if (num > 100)
+    {
+      //run code
+    }
+    else
+    {
+      //run code
+    }
+    ```
+      + variables inside `if` is scoped to block
+      + C# wants an `else` clause
+  
 
 [Back to Main](cnet.md)
