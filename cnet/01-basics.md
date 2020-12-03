@@ -13,6 +13,7 @@
   + `string`: "string" - double quotes
   + `bool`: boolean
   + `char`: 'z' - single quotes
+  + `objectName` - you can declare an object as a type
 
 + `Console.WriteLine(" ")`: writes to console
 + `Console.ReadLine()`: read from console

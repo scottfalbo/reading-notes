@@ -1,6 +1,7 @@
 #  Scott Falbo Reading Notes
 
 [C#](cnet/cnet.md)<br>
+[React](react/react.md)<br>
 [301 Notes](#301)<br>
 [201 Notes](#201)<br>
 [102 Notes](#102)<br>
