@@ -57,6 +57,9 @@
   );
   ```
 + `{ }` means you are leaving JSX and entering JavaScript.  Anything in the `{ }` is JavaScript.
+  + `className` in JSX turn into `class` in html
+  + comments must be in `{ }`.
+
 
 
 
