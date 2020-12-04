@@ -62,11 +62,9 @@
     > 
     ```
   + `" "` - are used to mimic HTML conventions
-
-
-
-
-
+  
+  > A **Key** is a unique identifier that gives React a way to quickly and reliably identify an element in the list.
++ Not all react elements need a **key**.  Pass a **key** prop any time you're creating elements by iterating over an array of items that will be rearranged, added, or deleted in your UI.  The **key** will help React identify which items were changed, added or deleted.
 
 
 [Back to Main](react.md)
