@@ -62,3 +62,6 @@
 
 [Back to the top](#scott-falbo-reading-notes)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=scottfalbo&show_icons=true&theme=merko)]
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=merko)]
