@@ -32,7 +32,6 @@
 + Set up things
   + `git config --global user.name "Spaceghost"`
   + `git config --global user.email Handsome@loaf.com`
-+ `git init` - create a new local repo
 + `git clone url` - clone down a repo
 + `git status` - lists files that have been changed but not committed
 + `git pull origin branchName` - fetch and merge changes from remote to local
@@ -56,6 +55,15 @@
     + `git remote add upstream MAIN_REPO_URL`
   3. `git pull upstream main` - to get updates on main repo
 + `git remote remove upstream` - remove upstream
++ **Initializing and pushing a new local repo to gitHub**
+  1. Create an empty repo on gitHub
+  2. `git init` - initialize the directory
+  3. `git add README.md`
+  4. `git commit -m "first commit"`
+  5. `git branch -M main`
+  6. `git remote add origin REPO_URL`
+  7. `git push -u origin main`
+
 
 
 ## Others
@@ -82,3 +90,11 @@
     + `\d tableName` - describe a table
     + `\dn` - lists available schema
 + SQL commands all work in here as well.
+
+### React
+1. `npx create-react-app appName` - this sets up your react development environment 
+2. `cd appName`
+3. `npm start`
+
+
+  
