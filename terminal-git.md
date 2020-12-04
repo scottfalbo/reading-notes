@@ -55,6 +55,7 @@
   2. From inside the repo directory
     + `git remote add upstream MAIN_REPO_URL`
   3. `git pull upstream main` - to get updates on main repo
++ `git remote remove upstream` - remove upstream
 
 
 ## Others
@@ -65,10 +66,15 @@
 
 
 ### node
++ `npm init` - initialize node
 + `node server.js` - run node server
   + `nodemon` - run server with live refresh
++ `npm install dependencyName` - install dependencies
++ `npm install` - automatically install dependencies `in package.json`
+
 
 ### PG
++ `psql -f folder/schema.sql -d databaseName` - put sql data into local PG database
 + `psql` - enter the pg database
   + `\l` - lists databases
   + `\c databaseName` - move to database
