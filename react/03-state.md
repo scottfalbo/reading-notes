@@ -49,13 +49,34 @@
   + Adding an Event Listener to the above snippet.
     + ```
       incrementScore(){
-        // do a thing
+        this.setState({
+          score: this.state.score + 1
+        });
       }
       ...
       <button className="counter-action increment" onClick={this.incrementScore}>+</button>
       ```
       + `onClick` is a specific React method and added inline.
-  
-
++ `setState()` is a React method that changes the state and tells it to render again.
++ Custom methods in classes are not bound by default and therefore do not recognize `this`.  There are few ways to bind the function to the component.
+  + `<button className="counter-action increment" onClick={this.incrementScore.bind(this)}>+</button>`
+    + uses the `bind()` method
+  + `<button className="counter-action increment" onClick={() => this.incrementScore()}>+</button>`
+    + `() =>` are bound to the scope in which they are defined.
+  + Lastly you can change the function to an `() =>`
+  + `incrementScore = () => {`
++ `setState()` may happen asynchronously so you shouldn't rely on `this.setState()`
+  + To work around this `setState()` accepts a callback with an optional parameter of the previous state as an object.  You can also pass in a second optional parameter of 'props`
+    + `setState((prevState, props) => {});`
+  + ```
+    incrementScore = () => {
+      this.setState(prevState =>({
+       score: prevState.score + 1
+      }));
+    }
+    ```
++ **Types of State**
+  + **Application state** - Data that is available to the entire app.
+  + **Component state** - State that is specific to a component and not shared outside of the component.
 
 [Back to Main](react.md)
