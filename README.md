@@ -5,6 +5,7 @@
 [301 Notes](#301)<br>
 [201 Notes](#201)<br>
 [102 Notes](#102)<br>
+[Terminal and Git commands](terminal-git.md)<br>
 
 
 
