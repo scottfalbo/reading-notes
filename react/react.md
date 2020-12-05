@@ -6,6 +6,7 @@ http server to run async calls for live testing: *python3 -m SimpleHTTPServer*
 [Components and Props](02-components.md)<br>
 [State](03-state.md)<br>
 [Using Create React App](04-reactapp.md)<br>
+[Modules](05-modules.md)<br>
 
 
 
