@@ -59,6 +59,18 @@ Then each module is exported and imported to be used.
   + ```
     import { Counter } from './Counter';
     ```
+### Unidirectional Data Flow
+> In React, data naturally flows down the component tree, from the app's top-level component down to the child components, via props. This is called "unidirectional data flow".
+
++ **Lifting State Up** - When two or more components need access to the same state, move the state into their common parent.
++ To data to flow up the parent can pass a callback function to a child that returns a change in state.
++ **Controlled Components** - To manage an input field's state, we need to build a "controlled component." A controlled component renders a form element whose values are controlled by React, with state.
+  + **Creating a Controlled Component**
+    1. Initialize state for the value of the input.
+    2. Listen for changes on the input to detect when value is updated.
+    3. Create an event handler that updates the value state.
+
+
 
 
 [Back to Main](react.md)
