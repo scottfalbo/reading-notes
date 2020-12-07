@@ -75,6 +75,8 @@
       }));
     }
     ```
++ When a key and property match inside `setState()` you can just type the name once.
+  + `value: value,` is the same `value,`
 + **Types of State**
   + **Application state** - Data that is available to the entire app.
   + **Component state** - State that is specific to a component and not shared outside of the component.

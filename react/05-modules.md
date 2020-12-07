@@ -59,7 +59,7 @@ Then each module is exported and imported to be used.
   + ```
     import { Counter } from './Counter';
     ```
-### Unidirectional Data Flow
+## Unidirectional Data Flow
 > In React, data naturally flows down the component tree, from the app's top-level component down to the child components, via props. This is called "unidirectional data flow".
 
 + **Lifting State Up** - When two or more components need access to the same state, move the state into their common parent.
@@ -69,6 +69,17 @@ Then each module is exported and imported to be used.
     1. Initialize state for the value of the input.
     2. Listen for changes on the input to detect when value is updated.
     3. Create an event handler that updates the value state.
+
+## Stateful Components and Lifecycle Methods
+ > Component Lifecycle - Every component instance follows a cycle: It's mounted onto the DOM, it's updated with changes in data, and it's unmounted from the DOM.
+
++ React Lifecycle Methods
+  + Built-in methods that get called at each point in the life cycle.
+  + Hooks that run code at key times in a component's life cycle.
+  + Give you the ability to control what happens when a component mounts, updates, and un-mounts.
+
++ > **Prevent Memory Leaks** - Since components do not always stay in the DOM, React also provides the componentWillUnmount lifecycle method to help you handle unmounting of components. This can help prevent memory leaks in your application.
++ `componentWillUnmount()`
 
 
 
