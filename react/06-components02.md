@@ -52,11 +52,22 @@
   + Triggering imperative animations.
   + Integrating with third-party DOM libraries.
 + *Avoid using refs for anything that can be done declaratively.*
+  + ```
+    userInput = React.createRef();
+    render(){
+      return (
+        ...
+        ref = { this.userInput }
+        ...
+      )
+    }
+    ```
 
 + **validate Props with Type Checking:
 + Ensures the right data type is being sent.
 + As your app grows, it's a good practice to "type check" or validate the data a component receives from props. Other developers working on the same project will know exactly which props your components take, and what types they should be.
   + `npm install --save props-types`
+  + Stateless Function:
   + ```
     import PropTypes from 'prop-types';
 
@@ -64,12 +75,47 @@
       ...
     }
 
-    Thins.propTypes = {
+    Thing.propTypes = {
       name: PropTypes.string,
       age: PropTypes.number,
       doSomething: PropTypes.func
     };
     ```
+  + `Class`:
+    + ```
+      import PropTypes from 'prop-types';
 
+      class ClassName extends Component {
+
+        static propTypes = {
+          ...
+        };
+        render(){
+          ...
+        }
+      }
+      ```
+  + **Required Props**
+    + ```
+      static propTypes = {
+        thing: PropTypes.number,
+        thing2: PropTypes.number.isRequired
+      };
+      ```
+  + **Default Props**
+    + ```
+      const Function (props) => {
+        ....
+      }
+      
+      Function.propTypes = {
+        ...
+      };
+
+      Function.defaultProps = {
+        title: "Default Title"
+      };
+      
+      ```
 
 [Back to Main](react.md)
