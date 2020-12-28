@@ -74,7 +74,26 @@
       //routes
       <Route component={NotFound} />
     </Switch>
+    ...
     ```
-
++ ### URL Parameters
+  + Can be found in `props.match.params`
+  + The data here can be used dynamically on the page.
+  + `<Route path="/root/:thing1/:thing2-:thing3"`
+    + `thing1`, `thing2`, and `thing3` are all available in `props`
++ ### Navigating Routes Programmatically
+  + ```
+    ...
+    const handleSubmit (event) => {
+      event.preventDefault();
+      let path = 'root/${this.name.value}';
+      this.props.history.push(path);
+    }
+    ...
+    <form onSubmit={this.handleSubmit}>
+      <input type="input" ref={ (input) => this.name = input} />
+      <button type="submit">push me</button>
+    </form>
+    ```
 
 [Back to Main](../README.md)
