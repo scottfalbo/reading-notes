@@ -37,6 +37,25 @@
     <li><Link to="/Page3">Page3</Link></li>
     ...
     ```
+ + Change `Link` to `NavLink` to assign active class tags
+  + ```
+    import { NavLink } from 'react-router-dom';
+    ...
+    <li><NavLink to="/Page3" activeClassName="highlight-me">Page3</NavLink></li>
+    <li><NavLink to="/Page4" activeStyle={{background: 'bisque'}}>Page4</NavLink></li>
+    ...
+    ```
+      + the default class name given is `.active`
+      + You can do inline styling with `activeStyle`
+  + **Redirect**
+    + This is useful when loaded embedded content.
+    + ```
+      import { ..., Redirect } from 'react-router-dom';
+      ...
+      <Route exact path="/rootPath" render={ () => <Redirect to="rootPath/child" />} />
+      <Route path="/rootPath/child" component={Child} />
+      ```
+      + Calling `Redirect` as a call back ensures normal behavior for the parent nav as well as on refresh.
 
 
 
