@@ -56,7 +56,25 @@
       <Route path="/rootPath/child" component={Child} />
       ```
       + Calling `Redirect` as a call back ensures normal behavior for the parent nav as well as on refresh.
-
+  + Embedded routes can be handled dynamically with the `props.match` property.
+    + ```
+      ...
+      const RootPath = ({match}) => (
+        ...
+        <li><NavLink to={`${match.url}/child`}>child</NavLink></li>
+        ...
+        <Route path={`${match.path}/child`} component={Child}/>
+      );
+      ```
++ ### 404 Error Handling
+  + ```
+    import {..., Switch} from 'react-router-dom';
+    ...
+    <Switch>
+      //routes
+      <Route component={NotFound} />
+    </Switch>
+    ```
 
 
 [Back to Main](../README.md)
