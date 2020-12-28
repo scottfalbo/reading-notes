@@ -11,6 +11,7 @@ http server to run async calls for live testing: *python3 -m SimpleHTTPServer*
 [React Context API](07-context-api.md)<br>
 [Routing](08-routing.md)<br>
 [Data Fetching](09-data-fetching.md)<br>
+[React 16](10-10-react-v16.md.md)<br>
 
 
 
