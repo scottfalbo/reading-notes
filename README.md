@@ -1,19 +1,16 @@
 #  Scott Falbo Reading Notes
 
-[C#](cnet/cnet.md)<br>
-[React](react/react.md)<br>
-[Python](python/python.md)<br>
+
+[Terminal and Git commands](terminal-git.md)<br>
+[Other Notes](#other-notes)<br>
+
+## Code Fellows class notes
 [301 Notes](#301)<br>
 [201 Notes](#201)<br>
 [102 Notes](#102)<br>
-[Terminal and Git commands](terminal-git.md)<br>
-
-
-
-**[GitHub](https://github.com/scottfalbo)**
-
-
-## My Reading Notes Table of Contents
+### 401 .NET
+[Pre-Work Mindset](401net/00-mindset.md)<br>
+[Pre-Work Reading](401net/00-reading.md)<br>
 ### 301
 [JQuery Pre-Work](301/jquery-prework.md)<br>
 [Responsive Web Design](301/read-01.md)<br>
@@ -58,6 +55,12 @@
 [How Computers Work](102/how-comps-work.md)<br>
 [Programming with JavaScript](102/prog-with-java.md)<br>
 [Operators and Loops](102/ops-loops.md)
+
+## Other notes
+[C#](cnet/cnet.md)<br>
+[React](react/react.md)<br>
+[Python](python/python.md)<br>
+
 
 
 
