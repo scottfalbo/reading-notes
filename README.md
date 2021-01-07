@@ -2,7 +2,9 @@
 
 
 [Terminal and Git commands](terminal-git.md)<br>
-[Other Notes](#other-notes)<br>
+[React](react/react.md)<br>
+[C#](cnet/cnet.md)<br>
+[Python](python/python.md)<br>
 
 ## Code Fellows class notes
 [301 Notes](#301)<br>
@@ -10,6 +12,7 @@
 [102 Notes](#102)<br>
 ### 401 .NET
 [Pre-Work Mindset](401net/00-mindset.md)<br>
+[Pre-Work Big O Notation](401net/00-big-o.md)<br>
 [Pre-Work Reading](401net/00-reading.md)<br>
 ### 301
 [JQuery Pre-Work](301/jquery-prework.md)<br>
@@ -55,13 +58,5 @@
 [How Computers Work](102/how-comps-work.md)<br>
 [Programming with JavaScript](102/prog-with-java.md)<br>
 [Operators and Loops](102/ops-loops.md)
-
-## Other notes
-[C#](cnet/cnet.md)<br>
-[React](react/react.md)<br>
-[Python](python/python.md)<br>
-
-
-
 
 [Back to the top](#scott-falbo-reading-notes)
