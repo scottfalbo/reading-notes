@@ -34,20 +34,24 @@
 ### Drs Sarah: imposter Syndrome
 [audio: part 1](https://soundcloud.com/drssarahcare/self-care-with-drs-sarah-impostor-syndrome-part-i)<br>
 [audio: part 2](https://soundcloud.com/drssarahcare/self-care-with-drs-sarah-the-impostor-syndrome-part-ii)<br>
-+ 
 
 ### Think Like a Programmer
 [article](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2)<br>
-+ 
-
++ > “The biggest mistake I see new programmers make is focusing on learning syntax instead of learning how to solve problems.” <br>— *V. Anton Spraul*
+  + **Understand** - Know what is being asked of you and be able to communicate it in simple terms.
+  + **Plan** - Don't just start coding, make a plan and know what your inputs, processes and expected outputs should be.
+  + **Divide** - Break the larger problem into smaller sub-problems.  
+  + **Stuck** - Debug, reassess the general approach and basic principles, and research.
 
 ### Value Your Time
 [article](https://medium.com/swlh/pretend-your-time-is-worth-1-000-hour-and-youll-become-100x-more-productive-f04628bb3e6d)<br>
-+
-
++ Basic take away is to value your time.  Say no to the things that you don't want to give the energy to to have time for the things that really matter.
 
 ### What I wish I Knew Before
 [article](https://medium.com/coding-in-simple-english/what-i-wish-i-knew-before-i-learned-to-code-8edcadbd2dcd)<br>
-
++ Everyone learns differently and brings different skill sets to the table.  View this as a chance to collaborate and learn as opposed to comparing yourself.
++ Ask questions.
++ Be comfortable with the unknown and being able to problem solve.
++ Learning has no end and needs to be perpetual.
 
 [Back to the main page](../README.md) 
