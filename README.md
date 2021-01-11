@@ -1,5 +1,5 @@
 #  Scott Falbo Reading Notes
-
+Reading notes for Code Fellows classes as well as independent study.
 
 [Terminal and Git commands](terminal-git.md)<br>
 [React](react/react.md)<br>
