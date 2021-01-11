@@ -75,4 +75,8 @@
   + `NotImplementedException` - indicates that a function is not yet implemented.
   + `ObjectDisposedException` - when the object upon which a method is called has been disposed. 
 
+Therac-25 take away: 
++ Don't assume that reused software is safe.
++ Give exception handling messages meaning.  
+
 [Back to the main page](../README.md) 
