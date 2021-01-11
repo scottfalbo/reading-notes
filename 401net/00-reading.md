@@ -22,6 +22,5 @@
 + **Type-safe** - meaning that types can interact only through certain rules, ensuring internal consistency.  You can't interact with a boolean as if it's an integer.
 + **Strongly Typed** - means the type rules are very strict.  You can't send a method a float if it's expecting an int.
 + The container for managed code is called an **assembly** or **portable executable**.  This can be an `*.exe` or `*.dll` file.  These files contain metadata allowing assemblies to reference types in other assemblies.
-+ 
 
 [Back to the main page](../README.md) 
