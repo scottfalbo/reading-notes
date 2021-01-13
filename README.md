@@ -14,6 +14,7 @@ Reading notes for Code Fellows classes as well as independent study.
 [Pre-Work Reading](401net/00-reading.md)<br>
 [Exception Handling](401net/read-01.md)<br>
 [Unit Testing and Documentation](401net/read-02.md)<br>
+[System.I.O](401net/read-03.md)<br>
 ### 301
 [JQuery Pre-Work](301/jquery-prework.md)<br>
 [Responsive Web Design](301/read-01.md)<br>
