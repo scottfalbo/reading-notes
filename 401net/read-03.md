@@ -1,4 +1,4 @@
-# # 401 .NET Read 03: System.I.O
+# 401 .NET Read 03: System.I.O
 
 ## File and Stream I/O
 [Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/standard/io/)<br>
