@@ -80,6 +80,13 @@ CatMaker spaceghost = new CatMaker();
 + Basically stacking is a 'first in, first out' operation, like Magic card timing resolution.  You can't get to the next thing until the first thing resolves.  Or in this case is unpacked and thrown away.
 + Heaping is the rest of it, stuff you can just grab whenever you want.  I pile of data basically.
 
+## Fundamentals of Garbage Collection
+[Microsoft docs: Garbage Collection](https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/fundamentals)<br>
++ The Common Language Runtime, CLR, performs memory management tasks so I don't have to.
+  + Don't have to manually release memory.
+  + Allocates objects on managed heap efficiency.
+  + Reclaims objects that are no longer being used, clears their memory, and keeps the memory available for future allocations.
+  + Provides memory safety so objects can't use content of another object.
 
 
 
