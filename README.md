@@ -17,6 +17,7 @@ Reading notes for Code Fellows classes as well as independent study.
 [System.I.O](401net/read-03.md)<br>
 [Classes and Memory Management](401net/read-04.md)<br>
 [Linked Lists](401net/read-05.md)<br>
+[Object Oriented Principles](401net/read-06.md)<br>
 ### 301
 [JQuery Pre-Work](301/jquery-prework.md)<br>
 [Responsive Web Design](301/read-01.md)<br>
