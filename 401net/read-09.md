@@ -1,5 +1,6 @@
 # 401 .NET Read 09: LINQ
 ### *Language Integrate Query*
+### `using System.Linq`
 
 LINQ unifies data access from multiple sources, and allows mixing of data from those different sources. So instead of having to learn a different type of query for each data source you are working with you can just use LINQ queries.
 
