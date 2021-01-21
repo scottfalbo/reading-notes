@@ -20,6 +20,7 @@ Reading notes for Code Fellows classes as well as independent study.
 [Object Oriented Principles](401net/read-06.md)<br>
 [Interfaces](401net/read-07.md)<br>
 [Collections, enum](401net/read-08.md)<br>
+[LINQ](401net/read-09.md)<br>
 ### 301
 [JQuery Pre-Work](301/jquery-prework.md)<br>
 [Responsive Web Design](301/read-01.md)<br>
