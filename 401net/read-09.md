@@ -12,14 +12,14 @@ A query is is made up of three actions:
   + Execute the query, find the thing
 
 
-```
-int[] things = new in[]{1, 2, 3, 4, 5};
++ ```
+  int[] things = new in[]{1, 2, 3, 4, 5};
 
-int ThingQuery =
-  from stuff in things
-  where stuff == 2
-  select stuff
-```
+  int ThingQuery =
+    from stuff in things
+    where stuff == 2
+    select stuff
+  ```
 
 
 [Microsoft docs: Query Operations](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/basic-linq-query-operations)<br>
