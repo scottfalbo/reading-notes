@@ -10,6 +10,8 @@ A query is is made up of three actions:
   + Get the data source
   + Create the query, what are we looking for?
   + Execute the query, find the thing
+
+
 ```
 int[] things = new in[]{1, 2, 3, 4, 5};
 
@@ -18,7 +20,10 @@ int ThingQuery =
   where stuff == 2
   select stuff
 ```
+
+
 [Microsoft docs: Query Operations](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/basic-linq-query-operations)<br>
+
 
 We get a bunch of cool things like filtering, sorting, grouping and joining.  Basically all of the javaScript things that we can't normally do to arrays in C#.
 
@@ -33,10 +38,6 @@ Array are enumerable because the are arrays.  When working with data structures 
     Console.WriteLine(cat);
   ```
 This query will look at a `List<Cats>` full of `Cats` objects.  It checks cat.Girl for true and returns any objects that fit the condition.
-
-
-
-
 
 
 [Back to the main page](../README.md) 
