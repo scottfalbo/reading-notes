@@ -25,6 +25,7 @@ Reading notes for Code Fellows classes as well as independent study.
 [Entity Relationship Diagram (ERD)](401net/read-11.md)<br>
 [EF Core and APIs](401net/read-12.md)<br>
 [Dependency Injection, SOLID](401net/read-13.md)<br>
+[Routing and Navigation Props](401net/read-14.md)<br>
 ### 301
 [JQuery Pre-Work](301/jquery-prework.md)<br>
 [Responsive Web Design](301/read-01.md)<br>
