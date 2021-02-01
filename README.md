@@ -27,6 +27,7 @@ Reading notes for Code Fellows classes as well as independent study.
 [Dependency Injection, SOLID](401net/read-13.md)<br>
 [Routing and Navigation Props](401net/read-14.md)<br>
 [Binary Trees](401net/read-15.md)<br>
+[Data Transfer Objects](401net/read-16.md)<br>
 ### 301
 [JQuery Pre-Work](301/jquery-prework.md)<br>
 [Responsive Web Design](301/read-01.md)<br>
