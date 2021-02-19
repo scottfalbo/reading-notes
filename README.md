@@ -33,6 +33,8 @@ Reading notes for Code Fellows classes as well as independent study.
 [Claims and JWT Tokens](401net/read-19.md)<br>
 [Intro to MVC](401net/read-26.md)<br>
 [Cookies](401net/read-27.md)<br>
+[MVC Forms](401net/read-28.md)<br>
+[Hash Tables](401net/read-30.md)<br>
 ### 301
 [JQuery Pre-Work](301/jquery-prework.md)<br>
 [Responsive Web Design](301/read-01.md)<br>
