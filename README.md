@@ -36,6 +36,7 @@ Reading notes for Code Fellows classes as well as independent study.
 [MVC Forms](401net/read-28.md)<br>
 [Hash Tables](401net/read-30.md)<br>
 [Razer Pages](401net/read-31.md)<br>
+[Graphs](401net/read-35.md)<br>
 ### 301
 [JQuery Pre-Work](301/jquery-prework.md)<br>
 [Responsive Web Design](301/read-01.md)<br>
