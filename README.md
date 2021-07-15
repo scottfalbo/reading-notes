@@ -3,8 +3,7 @@ Reading notes for Code Fellows classes as well as independent study.
 
 [Terminal and Git commands](terminal-git.md)<br>
 [React](react/react.md)<br>
-[C#](cnet/cnet.md)<br>
-[Python](python/python.md)<br>
+[Computer Science](comp-sci/comp-sci.md)
 
 ## Code Fellows class notes
 
