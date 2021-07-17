@@ -21,7 +21,6 @@ Every computer has both internal (local) data buses and external data buses.  Th
 
 ![Data Bus Diagram](assets/data_bus.jpg)
 
-
 ---
 
 [Back to Index](comp-sci.md)
