@@ -3,7 +3,7 @@
 A data bus is a system within a computer consisting of a connector that provides transportation for data.
 
 A data bus can transfer data to and from the memory of a computer, or in and out of the CPU.  It can also transfer data between two computers.
-+ The amount of data transferred is bandwidth.
++ The amount of data transferred in a given amount of time is bandwidth.
 
 There are three types of buses:
 + **Address bus**: Carries memory addresses from the processor to other components.  Where the data is and/or where it is going.

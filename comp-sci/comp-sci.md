@@ -2,6 +2,7 @@
 
 + ## Contents
 
+    + [Data Storage Hierarchy](data-storage-hierarchy.md)
     + [Data Bus](data-bus.md)
 
 
