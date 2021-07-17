@@ -22,6 +22,9 @@ A database is an organized collection of data.  Data hierarchy refers to the way
         + Represented by **0** *(off)* or **1** *(on)*.
 
 
+![Data Storage Hierarchy Drawing](assets/data_hierarchy.jpg)
+
+
 ---
 
 [Back to Index](comp-sci.md)
