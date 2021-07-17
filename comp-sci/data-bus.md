@@ -8,7 +8,7 @@ A data bus can transfer data to and from the memory of a computer, or in and out
 There are three types of buses:
 + **Address bus**: Carries memory addresses from the processor to other components.  Where the data is and/or where it is going.
 + **Data bus**: Carries the data between the processor and components.  This is the contents that has been read from, or is to be written to memory.
-+ **Control Bus**: Carries control signals from the processor to components.  Manages the flow information flow between components by controlling whether the operation is read or write and making sure it happens at the right time. 
++ **Control Bus**: Carries control signals from the processor to components.  Manages the information flow between components by controlling whether the operation is read or write and making sure it happens at the right time. 
     + Things have to happen at the same speed in the computer, but not all data transfers at the same rate.  Information from the CPU comes faster than information from a component.  The controller ensures everything is working at the same rate.
 
 + **Parallel Bus**: A parallel bus is used in more complex connections that must carry more than one bit at a time.  Data is carried on many wires simultaneously.
