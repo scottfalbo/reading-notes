@@ -1,8 +1,8 @@
 #  Scott Falbo Reading Notes
-Reading notes for Code Fellows classes as well as independent study.
+My reading notes on various things.
 
-[Terminal and Git commands](terminal-git.md)<br>
-[React](react/react.md)<br>
-[Computer Science](comp-sci/comp-sci.md)<br>
-[KQL](kql/kql-main.md)<br>
-[Code Fellows class notes](code-fellows/code-fellows.md)
++ [Terminal and Git commands](terminal-git.md)
++ [React](react/react.md)
++ [Computer Science](comp-sci/comp-sci.md)
++ [KQL](kql/kql-main.md)
++ [Code Fellows class notes](code-fellows/code-fellows.md)

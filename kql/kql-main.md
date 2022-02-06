@@ -1,8 +1,7 @@
 # Kusto Query Language
 
 + [Common Operators](common-operators.md)
-+ 
-
++ [Scalar Operators](scalar.md)
 
 ---
 
