@@ -63,7 +63,8 @@
   5. `git branch -M main`
   6. `git remote add origin REPO_URL`
   7. `git push -u origin main`
-
++ **Delete all local branches except for `main`.**
+  + `git branch | grep -v "main" | % {git branch -D $_.trim()}`
 
 
 ## Others

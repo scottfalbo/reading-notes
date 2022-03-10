@@ -11,7 +11,7 @@
 + [top](#top)
 
 ---
-
+ 
 + ## `search`
 + Search across one or more table and one, or more column, for a value.
   + `search <> <value>`
